@@ -55,7 +55,7 @@ Some external codecs require their own installation steps or binaries. Please fo
 
 ## Compression Statistics
 
-The rate-distortion performance data used to draw the figures in the paper is provided under `bdbr/`.
+The summarized points used to draw the figures and report the tables in the paper are provided under `statistics/` and `bdbr/`.
 
 More detailed compression output statistics are available at [TaCo-Bench](https://pan.sjtu.edu.cn/web/share/02d67f524c575c6bffd0b17719fbf0be), organized in the corresponding `statistics` and `analyse` folders under `lossy/` and `lossless/`. These files include the generated statistics and analysis outputs for the lossless and lossy codec evaluations reported in the paper.
 
