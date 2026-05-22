@@ -1,5 +1,7 @@
 # CSV outputs are uploaded separately.
 *.csv
+!statistics/
+!statistics/**/*.csv
 
 # Directories that contain generated CSV outputs.
 bdbr/
