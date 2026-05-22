@@ -1,0 +1,2449 @@
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 1904 bytes (0.496 bpp).
+60 x 512,  0.152 MP/s [0.15, 0.15], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 512,  1.023 MP/s [1.02, 1.02], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 1145 bytes (0.298 bpp).
+60 x 512,  0.230 MP/s [0.23, 0.23], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 512,  6.570 MP/s [6.57, 6.57], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 804 bytes (0.209 bpp).
+60 x 512,  0.137 MP/s [0.14, 0.14], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 512,  1.382 MP/s [1.38, 1.38], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 604 bytes (0.157 bpp).
+60 x 512,  0.142 MP/s [0.14, 0.14], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 512,  1.442 MP/s [1.44, 1.44], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 517 bytes (0.135 bpp).
+60 x 512,  0.133 MP/s [0.13, 0.13], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 512,  2.006 MP/s [2.01, 2.01], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 479 bytes (0.125 bpp).
+60 x 512,  0.321 MP/s [0.32, 0.32], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 512,  1.054 MP/s [1.05, 1.05], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 767 bytes (0.148 bpp).
+60 x 693,  0.164 MP/s [0.16, 0.16], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 693,  1.271 MP/s [1.27, 1.27], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 620 bytes (0.119 bpp).
+60 x 693,  0.116 MP/s [0.12, 0.12], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 693,  2.432 MP/s [2.43, 2.43], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 534 bytes (0.103 bpp).
+60 x 693,  0.100 MP/s [0.10, 0.10], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 693,  0.977 MP/s [0.98, 0.98], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 430 bytes (0.083 bpp).
+60 x 693,  0.111 MP/s [0.11, 0.11], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 693,  0.986 MP/s [0.99, 0.99], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 362 bytes (0.070 bpp).
+60 x 693,  0.117 MP/s [0.12, 0.12], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 693,  2.362 MP/s [2.36, 2.36], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 340 bytes (0.065 bpp).
+60 x 693,  0.134 MP/s [0.13, 0.13], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 693,  1.375 MP/s [1.37, 1.37], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 3133 bytes (0.366 bpp).
+60 x 1142,  0.416 MP/s [0.42, 0.42], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1142,  4.121 MP/s [4.12, 4.12], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 2001 bytes (0.234 bpp).
+60 x 1142,  0.238 MP/s [0.24, 0.24], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1142,  4.897 MP/s [4.90, 4.90], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 1494 bytes (0.174 bpp).
+60 x 1142,  0.419 MP/s [0.42, 0.42], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1142,  5.989 MP/s [5.99, 5.99], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 1144 bytes (0.134 bpp).
+60 x 1142,  0.369 MP/s [0.37, 0.37], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1142,  12.091 MP/s [12.09, 12.09], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 1027 bytes (0.120 bpp).
+60 x 1142,  0.466 MP/s [0.47, 0.47], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1142,  1.776 MP/s [1.78, 1.78], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 859 bytes (0.100 bpp).
+60 x 1142,  0.206 MP/s [0.21, 0.21], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1142,  1.843 MP/s [1.84, 1.84], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 3252 bytes (0.497 bpp).
+60 x 873,  0.205 MP/s [0.21, 0.21], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 873,  1.510 MP/s [1.51, 1.51], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 2253 bytes (0.344 bpp).
+60 x 873,  0.181 MP/s [0.18, 0.18], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 873,  1.168 MP/s [1.17, 1.17], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 1641 bytes (0.251 bpp).
+60 x 873,  0.338 MP/s [0.34, 0.34], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 873,  1.252 MP/s [1.25, 1.25], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 1361 bytes (0.208 bpp).
+60 x 873,  0.181 MP/s [0.18, 0.18], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 873,  1.489 MP/s [1.49, 1.49], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 1112 bytes (0.170 bpp).
+60 x 873,  0.169 MP/s [0.17, 0.17], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 873,  1.671 MP/s [1.67, 1.67], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 932 bytes (0.142 bpp).
+60 x 873,  0.128 MP/s [0.13, 0.13], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 873,  1.356 MP/s [1.36, 1.36], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 1840 bytes (0.428 bpp).
+60 x 573,  0.147 MP/s [0.15, 0.15], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 573,  1.241 MP/s [1.24, 1.24], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 1090 bytes (0.254 bpp).
+60 x 573,  0.245 MP/s [0.25, 0.25], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 573,  1.203 MP/s [1.20, 1.20], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 850 bytes (0.198 bpp).
+60 x 573,  0.168 MP/s [0.17, 0.17], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 573,  1.116 MP/s [1.12, 1.12], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 742 bytes (0.173 bpp).
+60 x 573,  0.161 MP/s [0.16, 0.16], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 573,  2.005 MP/s [2.01, 2.01], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 635 bytes (0.148 bpp).
+60 x 573,  0.543 MP/s [0.54, 0.54], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 573,  10.313 MP/s [10.31, 10.31], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 533 bytes (0.124 bpp).
+60 x 573,  0.163 MP/s [0.16, 0.16], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 573,  7.194 MP/s [7.19, 7.19], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 3466 bytes (0.338 bpp).
+60 x 1369,  0.289 MP/s [0.29, 0.29], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1369,  2.033 MP/s [2.03, 2.03], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 2104 bytes (0.205 bpp).
+60 x 1369,  0.310 MP/s [0.31, 0.31], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1369,  3.663 MP/s [3.66, 3.66], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 1516 bytes (0.148 bpp).
+60 x 1369,  0.267 MP/s [0.27, 0.27], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1369,  2.161 MP/s [2.16, 2.16], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 1212 bytes (0.118 bpp).
+60 x 1369,  0.242 MP/s [0.24, 0.24], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1369,  1.959 MP/s [1.96, 1.96], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 1003 bytes (0.098 bpp).
+60 x 1369,  0.224 MP/s [0.22, 0.22], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1369,  2.349 MP/s [2.35, 2.35], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 872 bytes (0.085 bpp).
+60 x 1369,  0.258 MP/s [0.26, 0.26], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1369,  2.358 MP/s [2.36, 2.36], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 3277 bytes (0.416 bpp).
+60 x 1051,  0.229 MP/s [0.23, 0.23], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1051,  1.953 MP/s [1.95, 1.95], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 2046 bytes (0.260 bpp).
+60 x 1051,  0.189 MP/s [0.19, 0.19], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1051,  2.824 MP/s [2.82, 2.82], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 1555 bytes (0.197 bpp).
+60 x 1051,  0.207 MP/s [0.21, 0.21], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1051,  2.906 MP/s [2.91, 2.91], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 1246 bytes (0.158 bpp).
+60 x 1051,  0.216 MP/s [0.22, 0.22], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1051,  2.637 MP/s [2.64, 2.64], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 1081 bytes (0.137 bpp).
+60 x 1051,  0.220 MP/s [0.22, 0.22], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1051,  2.212 MP/s [2.21, 2.21], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 885 bytes (0.112 bpp).
+60 x 1051,  0.244 MP/s [0.24, 0.24], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1051,  2.843 MP/s [2.84, 2.84], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 2363 bytes (0.436 bpp).
+60 x 722,  0.156 MP/s [0.16, 0.16], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 722,  3.136 MP/s [3.14, 3.14], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 1426 bytes (0.263 bpp).
+60 x 722,  0.183 MP/s [0.18, 0.18], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 722,  1.672 MP/s [1.67, 1.67], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 1097 bytes (0.203 bpp).
+60 x 722,  0.147 MP/s [0.15, 0.15], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 722,  1.494 MP/s [1.49, 1.49], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 900 bytes (0.166 bpp).
+60 x 722,  0.132 MP/s [0.13, 0.13], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 722,  5.179 MP/s [5.18, 5.18], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 742 bytes (0.137 bpp).
+60 x 722,  0.170 MP/s [0.17, 0.17], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 722,  1.697 MP/s [1.70, 1.70], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 637 bytes (0.118 bpp).
+60 x 722,  0.193 MP/s [0.19, 0.19], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 722,  1.369 MP/s [1.37, 1.37], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 2155 bytes (0.319 bpp).
+60 x 902,  0.118 MP/s [0.12, 0.12], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 902,  1.267 MP/s [1.27, 1.27], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 1510 bytes (0.223 bpp).
+60 x 902,  0.157 MP/s [0.16, 0.16], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 902,  1.661 MP/s [1.66, 1.66], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 1149 bytes (0.170 bpp).
+60 x 902,  0.164 MP/s [0.16, 0.16], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 902,  2.994 MP/s [2.99, 2.99], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 976 bytes (0.144 bpp).
+60 x 902,  0.144 MP/s [0.14, 0.14], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 902,  1.513 MP/s [1.51, 1.51], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 816 bytes (0.121 bpp).
+60 x 902,  0.268 MP/s [0.27, 0.27], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 902,  1.388 MP/s [1.39, 1.39], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 701 bytes (0.104 bpp).
+60 x 902,  0.159 MP/s [0.16, 0.16], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 902,  1.263 MP/s [1.26, 1.26], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 3419 bytes (0.310 bpp).
+60 x 1472,  0.232 MP/s [0.23, 0.23], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1472,  2.443 MP/s [2.44, 2.44], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 2248 bytes (0.204 bpp).
+60 x 1472,  0.298 MP/s [0.30, 0.30], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1472,  3.248 MP/s [3.25, 3.25], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 1647 bytes (0.149 bpp).
+60 x 1472,  0.234 MP/s [0.23, 0.23], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1472,  3.072 MP/s [3.07, 3.07], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 1411 bytes (0.128 bpp).
+60 x 1472,  0.250 MP/s [0.25, 0.25], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1472,  4.326 MP/s [4.33, 4.33], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 1129 bytes (0.102 bpp).
+60 x 1472,  0.382 MP/s [0.38, 0.38], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1472,  3.329 MP/s [3.33, 3.33], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 981 bytes (0.089 bpp).
+60 x 1472,  0.588 MP/s [0.59, 0.59], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1472,  3.204 MP/s [3.20, 3.20], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 2506 bytes (0.693 bpp).
+60 x 482,  0.103 MP/s [0.10, 0.10], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 482,  1.288 MP/s [1.29, 1.29], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 1772 bytes (0.490 bpp).
+60 x 482,  0.123 MP/s [0.12, 0.12], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 482,  1.870 MP/s [1.87, 1.87], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 1312 bytes (0.363 bpp).
+60 x 482,  0.108 MP/s [0.11, 0.11], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 482,  3.482 MP/s [3.48, 3.48], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 1060 bytes (0.293 bpp).
+60 x 482,  0.125 MP/s [0.13, 0.13], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 482,  1.423 MP/s [1.42, 1.42], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 866 bytes (0.240 bpp).
+60 x 482,  0.181 MP/s [0.18, 0.18], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 482,  1.193 MP/s [1.19, 1.19], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 723 bytes (0.200 bpp).
+60 x 482,  0.156 MP/s [0.16, 0.16], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 482,  1.575 MP/s [1.58, 1.58], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 1989 bytes (0.628 bpp).
+60 x 422,  0.091 MP/s [0.09, 0.09], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 422,  2.383 MP/s [2.38, 2.38], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 1298 bytes (0.410 bpp).
+60 x 422,  0.163 MP/s [0.16, 0.16], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 422,  2.037 MP/s [2.04, 2.04], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 895 bytes (0.283 bpp).
+60 x 422,  0.319 MP/s [0.32, 0.32], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 422,  7.743 MP/s [7.74, 7.74], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 700 bytes (0.221 bpp).
+60 x 422,  0.096 MP/s [0.10, 0.10], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 422,  1.311 MP/s [1.31, 1.31], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 572 bytes (0.181 bpp).
+60 x 422,  0.185 MP/s [0.19, 0.19], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 422,  1.550 MP/s [1.55, 1.55], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 554 bytes (0.175 bpp).
+60 x 422,  0.103 MP/s [0.10, 0.10], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 422,  1.020 MP/s [1.02, 1.02], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 700 bytes (0.107 bpp).
+60 x 873,  0.136 MP/s [0.14, 0.14], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 873,  1.223 MP/s [1.22, 1.22], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 515 bytes (0.079 bpp).
+60 x 873,  0.161 MP/s [0.16, 0.16], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 873,  3.561 MP/s [3.56, 3.56], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 445 bytes (0.068 bpp).
+60 x 873,  0.109 MP/s [0.11, 0.11], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 873,  1.084 MP/s [1.08, 1.08], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 441 bytes (0.067 bpp).
+60 x 873,  0.147 MP/s [0.15, 0.15], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 873,  1.529 MP/s [1.53, 1.53], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 414 bytes (0.063 bpp).
+60 x 873,  0.287 MP/s [0.29, 0.29], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 873,  2.489 MP/s [2.49, 2.49], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 356 bytes (0.054 bpp).
+60 x 873,  0.232 MP/s [0.23, 0.23], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 873,  7.562 MP/s [7.56, 7.56], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 3121 bytes (0.283 bpp).
+60 x 1471,  0.269 MP/s [0.27, 0.27], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1471,  2.919 MP/s [2.92, 2.92], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 1958 bytes (0.177 bpp).
+60 x 1471,  0.360 MP/s [0.36, 0.36], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1471,  2.687 MP/s [2.69, 2.69], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 1565 bytes (0.142 bpp).
+60 x 1471,  0.298 MP/s [0.30, 0.30], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1471,  4.450 MP/s [4.45, 4.45], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 1230 bytes (0.111 bpp).
+60 x 1471,  0.257 MP/s [0.26, 0.26], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1471,  1.449 MP/s [1.45, 1.45], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 1077 bytes (0.098 bpp).
+60 x 1471,  0.246 MP/s [0.25, 0.25], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1471,  3.074 MP/s [3.07, 3.07], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 939 bytes (0.085 bpp).
+60 x 1471,  0.272 MP/s [0.27, 0.27], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1471,  2.650 MP/s [2.65, 2.65], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 2663 bytes (0.590 bpp).
+60 x 602,  0.112 MP/s [0.11, 0.11], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 602,  1.428 MP/s [1.43, 1.43], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 1763 bytes (0.390 bpp).
+60 x 602,  0.118 MP/s [0.12, 0.12], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 602,  2.365 MP/s [2.37, 2.37], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 1393 bytes (0.309 bpp).
+60 x 602,  0.120 MP/s [0.12, 0.12], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 602,  1.807 MP/s [1.81, 1.81], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 1074 bytes (0.238 bpp).
+60 x 602,  0.132 MP/s [0.13, 0.13], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 602,  1.269 MP/s [1.27, 1.27], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 965 bytes (0.214 bpp).
+60 x 602,  0.131 MP/s [0.13, 0.13], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 602,  3.720 MP/s [3.72, 3.72], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 782 bytes (0.173 bpp).
+60 x 602,  0.169 MP/s [0.17, 0.17], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 602,  1.564 MP/s [1.56, 1.56], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 1113 bytes (0.190 bpp).
+60 x 781,  0.194 MP/s [0.19, 0.19], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 781,  1.363 MP/s [1.36, 1.36], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 790 bytes (0.135 bpp).
+60 x 781,  0.176 MP/s [0.18, 0.18], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 781,  1.710 MP/s [1.71, 1.71], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 630 bytes (0.108 bpp).
+60 x 781,  0.141 MP/s [0.14, 0.14], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 781,  1.521 MP/s [1.52, 1.52], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 530 bytes (0.090 bpp).
+60 x 781,  0.183 MP/s [0.18, 0.18], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 781,  3.209 MP/s [3.21, 3.21], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 434 bytes (0.074 bpp).
+60 x 781,  0.224 MP/s [0.22, 0.22], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 781,  1.896 MP/s [1.90, 1.90], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 386 bytes (0.066 bpp).
+60 x 781,  0.141 MP/s [0.14, 0.14], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 781,  1.214 MP/s [1.21, 1.21], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 3801 bytes (0.325 bpp).
+60 x 1561,  0.219 MP/s [0.22, 0.22], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1561,  2.042 MP/s [2.04, 2.04], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 2445 bytes (0.209 bpp).
+60 x 1561,  0.318 MP/s [0.32, 0.32], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1561,  2.990 MP/s [2.99, 2.99], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 1901 bytes (0.162 bpp).
+60 x 1561,  0.248 MP/s [0.25, 0.25], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1561,  2.652 MP/s [2.65, 2.65], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 1466 bytes (0.125 bpp).
+60 x 1561,  0.436 MP/s [0.44, 0.44], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1561,  3.988 MP/s [3.99, 3.99], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 1310 bytes (0.112 bpp).
+60 x 1561,  0.290 MP/s [0.29, 0.29], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1561,  3.894 MP/s [3.89, 3.89], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 1081 bytes (0.092 bpp).
+60 x 1561,  0.232 MP/s [0.23, 0.23], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1561,  3.108 MP/s [3.11, 3.11], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 3732 bytes (0.436 bpp).
+60 x 1141,  0.168 MP/s [0.17, 0.17], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1141,  1.794 MP/s [1.79, 1.79], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 2236 bytes (0.261 bpp).
+60 x 1141,  0.302 MP/s [0.30, 0.30], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1141,  2.335 MP/s [2.34, 2.34], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 1637 bytes (0.191 bpp).
+60 x 1141,  0.235 MP/s [0.23, 0.23], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1141,  1.933 MP/s [1.93, 1.93], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 1299 bytes (0.152 bpp).
+60 x 1141,  0.270 MP/s [0.27, 0.27], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1141,  1.452 MP/s [1.45, 1.45], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 1094 bytes (0.128 bpp).
+60 x 1141,  0.369 MP/s [0.37, 0.37], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1141,  6.227 MP/s [6.23, 6.23], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 944 bytes (0.110 bpp).
+60 x 1141,  0.173 MP/s [0.17, 0.17], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1141,  2.622 MP/s [2.62, 2.62], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 2637 bytes (0.308 bpp).
+60 x 1142,  0.199 MP/s [0.20, 0.20], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1142,  2.751 MP/s [2.75, 2.75], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 1690 bytes (0.197 bpp).
+60 x 1142,  0.255 MP/s [0.26, 0.26], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1142,  2.327 MP/s [2.33, 2.33], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 1238 bytes (0.145 bpp).
+60 x 1142,  0.506 MP/s [0.51, 0.51], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1142,  2.998 MP/s [3.00, 3.00], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 1021 bytes (0.119 bpp).
+60 x 1142,  0.244 MP/s [0.24, 0.24], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1142,  2.265 MP/s [2.27, 2.27], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 838 bytes (0.098 bpp).
+60 x 1142,  0.246 MP/s [0.25, 0.25], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1142,  2.013 MP/s [2.01, 2.01], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 717 bytes (0.084 bpp).
+60 x 1142,  0.190 MP/s [0.19, 0.19], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1142,  2.765 MP/s [2.76, 2.76], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 1682 bytes (0.392 bpp).
+60 x 572,  0.091 MP/s [0.09, 0.09], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 572,  1.533 MP/s [1.53, 1.53], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 1071 bytes (0.250 bpp).
+60 x 572,  0.070 MP/s [0.07, 0.07], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 572,  0.610 MP/s [0.61, 0.61], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 877 bytes (0.204 bpp).
+60 x 572,  0.094 MP/s [0.09, 0.09], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 572,  1.865 MP/s [1.86, 1.86], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 768 bytes (0.179 bpp).
+60 x 572,  0.102 MP/s [0.10, 0.10], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 572,  0.856 MP/s [0.86, 0.86], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 655 bytes (0.153 bpp).
+60 x 572,  0.118 MP/s [0.12, 0.12], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 572,  0.684 MP/s [0.68, 0.68], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 558 bytes (0.130 bpp).
+60 x 572,  0.152 MP/s [0.15, 0.15], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 572,  1.328 MP/s [1.33, 1.33], , 1 reps, 128 threads.
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 527 bytes (0.102 bpp).
+60 x 692,  0.277 MP/s [0.28, 0.28], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 692,  1.674 MP/s [1.67, 1.67], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 406 bytes (0.078 bpp).
+60 x 692,  0.157 MP/s [0.16, 0.16], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 692,  1.699 MP/s [1.70, 1.70], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 333 bytes (0.064 bpp).
+60 x 692,  0.170 MP/s [0.17, 0.17], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 692,  1.184 MP/s [1.18, 1.18], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 292 bytes (0.056 bpp).
+60 x 692,  0.183 MP/s [0.18, 0.18], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 692,  1.423 MP/s [1.42, 1.42], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 268 bytes (0.052 bpp).
+60 x 692,  0.205 MP/s [0.21, 0.21], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 692,  2.719 MP/s [2.72, 2.72], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 259 bytes (0.050 bpp).
+60 x 692,  0.156 MP/s [0.16, 0.16], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 692,  1.960 MP/s [1.96, 1.96], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 1778 bytes (0.343 bpp).
+60 x 692,  0.150 MP/s [0.15, 0.15], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 692,  1.702 MP/s [1.70, 1.70], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 1154 bytes (0.222 bpp).
+60 x 692,  0.209 MP/s [0.21, 0.21], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 692,  2.012 MP/s [2.01, 2.01], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 856 bytes (0.165 bpp).
+60 x 692,  0.124 MP/s [0.12, 0.12], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 692,  1.395 MP/s [1.39, 1.39], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 684 bytes (0.132 bpp).
+60 x 692,  0.174 MP/s [0.17, 0.17], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 692,  2.095 MP/s [2.10, 2.10], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 600 bytes (0.116 bpp).
+60 x 692,  0.148 MP/s [0.15, 0.15], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 692,  0.864 MP/s [0.86, 0.86], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 527 bytes (0.102 bpp).
+60 x 692,  0.132 MP/s [0.13, 0.13], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 692,  2.258 MP/s [2.26, 2.26], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 1105 bytes (0.149 bpp).
+60 x 991,  0.212 MP/s [0.21, 0.21], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 991,  2.882 MP/s [2.88, 2.88], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 728 bytes (0.098 bpp).
+60 x 991,  0.159 MP/s [0.16, 0.16], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 991,  2.163 MP/s [2.16, 2.16], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 603 bytes (0.081 bpp).
+60 x 991,  0.255 MP/s [0.26, 0.26], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 991,  2.253 MP/s [2.25, 2.25], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 523 bytes (0.070 bpp).
+60 x 991,  0.311 MP/s [0.31, 0.31], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 991,  7.378 MP/s [7.38, 7.38], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 492 bytes (0.066 bpp).
+60 x 991,  0.263 MP/s [0.26, 0.26], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 991,  6.350 MP/s [6.35, 6.35], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 428 bytes (0.058 bpp).
+60 x 991,  0.338 MP/s [0.34, 0.34], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 991,  3.637 MP/s [3.64, 3.64], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 1064 bytes (0.081 bpp).
+60 x 1742,  0.339 MP/s [0.34, 0.34], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1742,  3.254 MP/s [3.25, 3.25], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 710 bytes (0.054 bpp).
+60 x 1742,  0.270 MP/s [0.27, 0.27], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1742,  2.244 MP/s [2.24, 2.24], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 609 bytes (0.047 bpp).
+60 x 1742,  0.389 MP/s [0.39, 0.39], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1742,  3.555 MP/s [3.55, 3.55], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 564 bytes (0.043 bpp).
+60 x 1742,  0.230 MP/s [0.23, 0.23], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1742,  2.916 MP/s [2.92, 2.92], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 539 bytes (0.041 bpp).
+60 x 1742,  0.420 MP/s [0.42, 0.42], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1742,  3.297 MP/s [3.30, 3.30], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 470 bytes (0.036 bpp).
+60 x 1742,  0.315 MP/s [0.31, 0.31], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1742,  3.949 MP/s [3.95, 3.95], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 5203 bytes (0.525 bpp).
+60 x 1321,  0.347 MP/s [0.35, 0.35], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1321,  5.296 MP/s [5.30, 5.30], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 3340 bytes (0.337 bpp).
+60 x 1321,  0.255 MP/s [0.26, 0.26], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1321,  2.629 MP/s [2.63, 2.63], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 2344 bytes (0.237 bpp).
+60 x 1321,  0.220 MP/s [0.22, 0.22], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1321,  2.621 MP/s [2.62, 2.62], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 1787 bytes (0.180 bpp).
+60 x 1321,  0.193 MP/s [0.19, 0.19], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1321,  2.089 MP/s [2.09, 2.09], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 1481 bytes (0.149 bpp).
+60 x 1321,  0.251 MP/s [0.25, 0.25], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1321,  2.931 MP/s [2.93, 2.93], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 1225 bytes (0.124 bpp).
+60 x 1321,  0.442 MP/s [0.44, 0.44], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1321,  4.187 MP/s [4.19, 4.19], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 3345 bytes (0.309 bpp).
+60 x 1442,  0.292 MP/s [0.29, 0.29], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1442,  3.863 MP/s [3.86, 3.86], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 2066 bytes (0.191 bpp).
+60 x 1442,  0.300 MP/s [0.30, 0.30], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1442,  2.732 MP/s [2.73, 2.73], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 1572 bytes (0.145 bpp).
+60 x 1442,  0.352 MP/s [0.35, 0.35], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1442,  3.274 MP/s [3.27, 3.27], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 1285 bytes (0.119 bpp).
+60 x 1442,  0.239 MP/s [0.24, 0.24], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1442,  2.158 MP/s [2.16, 2.16], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 1083 bytes (0.100 bpp).
+60 x 1442,  0.336 MP/s [0.34, 0.34], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1442,  2.664 MP/s [2.66, 2.66], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 960 bytes (0.089 bpp).
+60 x 1442,  0.353 MP/s [0.35, 0.35], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1442,  3.463 MP/s [3.46, 3.46], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 2161 bytes (0.290 bpp).
+60 x 992,  0.120 MP/s [0.12, 0.12], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 992,  4.829 MP/s [4.83, 4.83], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 1366 bytes (0.184 bpp).
+60 x 992,  0.124 MP/s [0.12, 0.12], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 992,  1.361 MP/s [1.36, 1.36], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 1035 bytes (0.139 bpp).
+60 x 992,  0.211 MP/s [0.21, 0.21], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 992,  2.006 MP/s [2.01, 2.01], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 817 bytes (0.110 bpp).
+60 x 992,  0.256 MP/s [0.26, 0.26], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 992,  1.752 MP/s [1.75, 1.75], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 657 bytes (0.088 bpp).
+60 x 992,  0.149 MP/s [0.15, 0.15], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 992,  1.639 MP/s [1.64, 1.64], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 585 bytes (0.079 bpp).
+60 x 992,  0.242 MP/s [0.24, 0.24], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 992,  2.372 MP/s [2.37, 2.37], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 2537 bytes (0.450 bpp).
+60 x 752,  0.174 MP/s [0.17, 0.17], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 752,  2.191 MP/s [2.19, 2.19], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 1715 bytes (0.304 bpp).
+60 x 752,  0.170 MP/s [0.17, 0.17], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 752,  4.131 MP/s [4.13, 4.13], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 1366 bytes (0.242 bpp).
+60 x 752,  0.119 MP/s [0.12, 0.12], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 752,  4.624 MP/s [4.62, 4.62], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 1131 bytes (0.201 bpp).
+60 x 752,  0.173 MP/s [0.17, 0.17], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 752,  2.067 MP/s [2.07, 2.07], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 911 bytes (0.162 bpp).
+60 x 752,  0.147 MP/s [0.15, 0.15], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 752,  1.426 MP/s [1.43, 1.43], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 773 bytes (0.137 bpp).
+60 x 752,  0.229 MP/s [0.23, 0.23], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 752,  1.066 MP/s [1.07, 1.07], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 1873 bytes (0.395 bpp).
+60 x 632,  0.176 MP/s [0.18, 0.18], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 632,  1.878 MP/s [1.88, 1.88], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 1375 bytes (0.290 bpp).
+60 x 632,  0.213 MP/s [0.21, 0.21], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 632,  0.919 MP/s [0.92, 0.92], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 1095 bytes (0.231 bpp).
+60 x 632,  0.130 MP/s [0.13, 0.13], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 632,  0.959 MP/s [0.96, 0.96], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 911 bytes (0.192 bpp).
+60 x 632,  0.106 MP/s [0.11, 0.11], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 632,  0.991 MP/s [0.99, 0.99], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 823 bytes (0.174 bpp).
+60 x 632,  0.139 MP/s [0.14, 0.14], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 632,  1.827 MP/s [1.83, 1.83], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 729 bytes (0.154 bpp).
+60 x 632,  0.172 MP/s [0.17, 0.17], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 632,  1.357 MP/s [1.36, 1.36], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 4921 bytes (0.624 bpp).
+60 x 1052,  0.177 MP/s [0.18, 0.18], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1052,  2.349 MP/s [2.35, 2.35], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 3093 bytes (0.392 bpp).
+60 x 1052,  0.308 MP/s [0.31, 0.31], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1052,  3.074 MP/s [3.07, 3.07], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 2265 bytes (0.287 bpp).
+60 x 1052,  0.238 MP/s [0.24, 0.24], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1052,  2.668 MP/s [2.67, 2.67], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 1736 bytes (0.220 bpp).
+60 x 1052,  0.275 MP/s [0.27, 0.27], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1052,  2.726 MP/s [2.73, 2.73], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 1383 bytes (0.175 bpp).
+60 x 1052,  0.170 MP/s [0.17, 0.17], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1052,  1.769 MP/s [1.77, 1.77], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 1054 bytes (0.134 bpp).
+60 x 1052,  0.175 MP/s [0.18, 0.18], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1052,  2.384 MP/s [2.38, 2.38], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 2667 bytes (0.197 bpp).
+60 x 1802,  0.328 MP/s [0.33, 0.33], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1802,  6.420 MP/s [6.42, 6.42], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 1642 bytes (0.121 bpp).
+60 x 1802,  0.353 MP/s [0.35, 0.35], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1802,  2.163 MP/s [2.16, 2.16], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 1320 bytes (0.098 bpp).
+60 x 1802,  0.352 MP/s [0.35, 0.35], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1802,  3.038 MP/s [3.04, 3.04], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 1068 bytes (0.079 bpp).
+60 x 1802,  0.293 MP/s [0.29, 0.29], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1802,  3.123 MP/s [3.12, 3.12], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 892 bytes (0.066 bpp).
+60 x 1802,  0.303 MP/s [0.30, 0.30], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1802,  6.683 MP/s [6.68, 6.68], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 750 bytes (0.055 bpp).
+60 x 1802,  0.292 MP/s [0.29, 0.29], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1802,  5.027 MP/s [5.03, 5.03], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 3113 bytes (0.531 bpp).
+60 x 781,  0.177 MP/s [0.18, 0.18], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 781,  1.630 MP/s [1.63, 1.63], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 1848 bytes (0.315 bpp).
+60 x 781,  0.193 MP/s [0.19, 0.19], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 781,  2.033 MP/s [2.03, 2.03], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 1307 bytes (0.223 bpp).
+60 x 781,  0.249 MP/s [0.25, 0.25], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 781,  5.743 MP/s [5.74, 5.74], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 1039 bytes (0.177 bpp).
+60 x 781,  0.262 MP/s [0.26, 0.26], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 781,  2.126 MP/s [2.13, 2.13], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 875 bytes (0.149 bpp).
+60 x 781,  0.198 MP/s [0.20, 0.20], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 781,  2.674 MP/s [2.67, 2.67], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 729 bytes (0.124 bpp).
+60 x 781,  0.171 MP/s [0.17, 0.17], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 781,  1.646 MP/s [1.65, 1.65], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 937 bytes (0.218 bpp).
+60 x 572,  0.186 MP/s [0.19, 0.19], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 572,  1.322 MP/s [1.32, 1.32], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 625 bytes (0.146 bpp).
+60 x 572,  0.132 MP/s [0.13, 0.13], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 572,  0.847 MP/s [0.85, 0.85], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 513 bytes (0.120 bpp).
+60 x 572,  0.127 MP/s [0.13, 0.13], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 572,  1.367 MP/s [1.37, 1.37], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 414 bytes (0.097 bpp).
+60 x 572,  0.100 MP/s [0.10, 0.10], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 572,  1.421 MP/s [1.42, 1.42], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 383 bytes (0.089 bpp).
+60 x 572,  0.127 MP/s [0.13, 0.13], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 572,  1.318 MP/s [1.32, 1.32], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 335 bytes (0.078 bpp).
+60 x 572,  0.139 MP/s [0.14, 0.14], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 572,  1.331 MP/s [1.33, 1.33], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 1699 bytes (0.682 bpp).
+60 x 332,  0.084 MP/s [0.08, 0.08], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 332,  0.853 MP/s [0.85, 0.85], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 1149 bytes (0.461 bpp).
+60 x 332,  0.085 MP/s [0.08, 0.08], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 332,  0.829 MP/s [0.83, 0.83], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 823 bytes (0.331 bpp).
+60 x 332,  0.071 MP/s [0.07, 0.07], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 332,  0.832 MP/s [0.83, 0.83], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 670 bytes (0.269 bpp).
+60 x 332,  0.077 MP/s [0.08, 0.08], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 332,  0.618 MP/s [0.62, 0.62], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 606 bytes (0.243 bpp).
+60 x 332,  0.095 MP/s [0.09, 0.09], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 332,  0.806 MP/s [0.81, 0.81], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 496 bytes (0.199 bpp).
+60 x 332,  0.069 MP/s [0.07, 0.07], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 332,  1.446 MP/s [1.45, 1.45], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 507 bytes (0.118 bpp).
+60 x 572,  0.283 MP/s [0.28, 0.28], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 572,  0.767 MP/s [0.77, 0.77], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 429 bytes (0.100 bpp).
+60 x 572,  0.164 MP/s [0.16, 0.16], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 572,  1.985 MP/s [1.98, 1.98], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 408 bytes (0.095 bpp).
+60 x 572,  0.128 MP/s [0.13, 0.13], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 572,  1.221 MP/s [1.22, 1.22], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 432 bytes (0.101 bpp).
+60 x 572,  0.148 MP/s [0.15, 0.15], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 572,  1.121 MP/s [1.12, 1.12], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 348 bytes (0.081 bpp).
+60 x 572,  0.105 MP/s [0.10, 0.10], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 572,  1.345 MP/s [1.34, 1.34], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 320 bytes (0.075 bpp).
+60 x 572,  0.108 MP/s [0.11, 0.11], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 572,  1.213 MP/s [1.21, 1.21], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 598 bytes (0.241 bpp).
+60 x 331,  0.064 MP/s [0.06, 0.06], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 331,  0.878 MP/s [0.88, 0.88], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 452 bytes (0.182 bpp).
+60 x 331,  0.044 MP/s [0.04, 0.04], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 331,  0.323 MP/s [0.32, 0.32], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 399 bytes (0.161 bpp).
+60 x 331,  0.133 MP/s [0.13, 0.13], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 331,  1.228 MP/s [1.23, 1.23], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 365 bytes (0.147 bpp).
+60 x 331,  0.068 MP/s [0.07, 0.07], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 331,  0.615 MP/s [0.61, 0.61], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 304 bytes (0.122 bpp).
+60 x 331,  0.070 MP/s [0.07, 0.07], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 331,  0.481 MP/s [0.48, 0.48], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 287 bytes (0.116 bpp).
+60 x 331,  0.100 MP/s [0.10, 0.10], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 331,  0.755 MP/s [0.75, 0.75], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 842 bytes (0.265 bpp).
+60 x 423,  0.047 MP/s [0.05, 0.05], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 423,  0.688 MP/s [0.69, 0.69], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 586 bytes (0.185 bpp).
+60 x 423,  0.064 MP/s [0.06, 0.06], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 423,  0.789 MP/s [0.79, 0.79], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 477 bytes (0.150 bpp).
+60 x 423,  0.148 MP/s [0.15, 0.15], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 423,  0.829 MP/s [0.83, 0.83], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 405 bytes (0.128 bpp).
+60 x 423,  0.052 MP/s [0.05, 0.05], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 423,  0.659 MP/s [0.66, 0.66], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 359 bytes (0.113 bpp).
+60 x 423,  0.070 MP/s [0.07, 0.07], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 423,  0.772 MP/s [0.77, 0.77], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 339 bytes (0.107 bpp).
+60 x 423,  0.068 MP/s [0.07, 0.07], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 423,  0.978 MP/s [0.98, 0.98], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 2501 bytes (1.004 bpp).
+60 x 332,  0.060 MP/s [0.06, 0.06], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 332,  0.469 MP/s [0.47, 0.47], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 1782 bytes (0.716 bpp).
+60 x 332,  0.066 MP/s [0.07, 0.07], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 332,  0.577 MP/s [0.58, 0.58], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 1334 bytes (0.536 bpp).
+60 x 332,  0.072 MP/s [0.07, 0.07], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 332,  0.584 MP/s [0.58, 0.58], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 1006 bytes (0.404 bpp).
+60 x 332,  0.123 MP/s [0.12, 0.12], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 332,  1.717 MP/s [1.72, 1.72], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 813 bytes (0.327 bpp).
+60 x 332,  0.205 MP/s [0.20, 0.20], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 332,  0.563 MP/s [0.56, 0.56], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 664 bytes (0.267 bpp).
+60 x 332,  0.088 MP/s [0.09, 0.09], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 332,  0.621 MP/s [0.62, 0.62], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 3209 bytes (0.324 bpp).
+60 x 1321,  0.221 MP/s [0.22, 0.22], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1321,  1.816 MP/s [1.82, 1.82], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 2043 bytes (0.206 bpp).
+60 x 1321,  0.241 MP/s [0.24, 0.24], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1321,  2.051 MP/s [2.05, 2.05], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 1535 bytes (0.155 bpp).
+60 x 1321,  0.249 MP/s [0.25, 0.25], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1321,  2.686 MP/s [2.69, 2.69], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 1199 bytes (0.121 bpp).
+60 x 1321,  0.197 MP/s [0.20, 0.20], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1321,  2.204 MP/s [2.20, 2.20], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 1007 bytes (0.102 bpp).
+60 x 1321,  0.307 MP/s [0.31, 0.31], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1321,  2.232 MP/s [2.23, 2.23], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 856 bytes (0.086 bpp).
+60 x 1321,  0.471 MP/s [0.47, 0.47], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1321,  4.081 MP/s [4.08, 4.08], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 1821 bytes (0.299 bpp).
+60 x 813,  0.138 MP/s [0.14, 0.14], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 813,  1.334 MP/s [1.33, 1.33], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 1223 bytes (0.201 bpp).
+60 x 813,  0.138 MP/s [0.14, 0.14], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 813,  1.065 MP/s [1.06, 1.06], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 920 bytes (0.151 bpp).
+60 x 813,  0.142 MP/s [0.14, 0.14], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 813,  1.243 MP/s [1.24, 1.24], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 759 bytes (0.124 bpp).
+60 x 813,  0.169 MP/s [0.17, 0.17], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 813,  1.198 MP/s [1.20, 1.20], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 641 bytes (0.105 bpp).
+60 x 813,  0.102 MP/s [0.10, 0.10], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 813,  1.236 MP/s [1.24, 1.24], , 1 reps, 128 threads.
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 552 bytes (0.091 bpp).
+60 x 813,  0.120 MP/s [0.12, 0.12], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 813,  1.447 MP/s [1.45, 1.45], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 2464 bytes (0.405 bpp).
+60 x 812,  0.238 MP/s [0.24, 0.24], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 812,  2.252 MP/s [2.25, 2.25], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 1566 bytes (0.257 bpp).
+60 x 812,  0.254 MP/s [0.25, 0.25], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 812,  2.714 MP/s [2.71, 2.71], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 1158 bytes (0.190 bpp).
+60 x 812,  0.152 MP/s [0.15, 0.15], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 812,  1.573 MP/s [1.57, 1.57], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 968 bytes (0.159 bpp).
+60 x 812,  0.144 MP/s [0.14, 0.14], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 812,  2.061 MP/s [2.06, 2.06], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 838 bytes (0.138 bpp).
+60 x 812,  0.280 MP/s [0.28, 0.28], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 812,  6.533 MP/s [6.53, 6.53], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 720 bytes (0.118 bpp).
+60 x 812,  0.169 MP/s [0.17, 0.17], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 812,  2.904 MP/s [2.90, 2.90], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 2503 bytes (0.370 bpp).
+60 x 902,  0.350 MP/s [0.35, 0.35], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 902,  1.772 MP/s [1.77, 1.77], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 1506 bytes (0.223 bpp).
+60 x 902,  0.226 MP/s [0.23, 0.23], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 902,  2.189 MP/s [2.19, 2.19], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 1200 bytes (0.177 bpp).
+60 x 902,  0.287 MP/s [0.29, 0.29], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 902,  3.329 MP/s [3.33, 3.33], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 983 bytes (0.145 bpp).
+60 x 902,  0.343 MP/s [0.34, 0.34], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 902,  2.571 MP/s [2.57, 2.57], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 808 bytes (0.119 bpp).
+60 x 902,  0.173 MP/s [0.17, 0.17], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 902,  5.121 MP/s [5.12, 5.12], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 739 bytes (0.109 bpp).
+60 x 902,  0.199 MP/s [0.20, 0.20], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 902,  2.785 MP/s [2.79, 2.79], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 2712 bytes (0.461 bpp).
+60 x 784,  0.192 MP/s [0.19, 0.19], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 784,  11.063 MP/s [11.06, 11.06], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 1699 bytes (0.289 bpp).
+60 x 784,  0.157 MP/s [0.16, 0.16], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 784,  2.931 MP/s [2.93, 2.93], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 1274 bytes (0.217 bpp).
+60 x 784,  0.188 MP/s [0.19, 0.19], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 784,  1.618 MP/s [1.62, 1.62], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 1072 bytes (0.182 bpp).
+60 x 784,  0.190 MP/s [0.19, 0.19], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 784,  2.393 MP/s [2.39, 2.39], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 875 bytes (0.149 bpp).
+60 x 784,  0.297 MP/s [0.30, 0.30], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 784,  6.039 MP/s [6.04, 6.04], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 765 bytes (0.130 bpp).
+60 x 784,  0.168 MP/s [0.17, 0.17], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 784,  1.973 MP/s [1.97, 1.97], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 772 bytes (0.263 bpp).
+60 x 391,  0.121 MP/s [0.12, 0.12], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 391,  1.426 MP/s [1.43, 1.43], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 518 bytes (0.177 bpp).
+60 x 391,  0.108 MP/s [0.11, 0.11], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 391,  0.965 MP/s [0.96, 0.96], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 399 bytes (0.136 bpp).
+60 x 391,  0.108 MP/s [0.11, 0.11], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 391,  3.045 MP/s [3.04, 3.04], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 342 bytes (0.117 bpp).
+60 x 391,  0.104 MP/s [0.10, 0.10], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 391,  1.106 MP/s [1.11, 1.11], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 320 bytes (0.109 bpp).
+60 x 391,  0.083 MP/s [0.08, 0.08], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 391,  1.283 MP/s [1.28, 1.28], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 301 bytes (0.103 bpp).
+60 x 391,  0.113 MP/s [0.11, 0.11], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 391,  7.891 MP/s [7.89, 7.89], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 3916 bytes (0.599 bpp).
+60 x 871,  0.158 MP/s [0.16, 0.16], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 871,  1.443 MP/s [1.44, 1.44], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 2561 bytes (0.392 bpp).
+60 x 871,  0.199 MP/s [0.20, 0.20], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 871,  1.904 MP/s [1.90, 1.90], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 1950 bytes (0.299 bpp).
+60 x 871,  0.204 MP/s [0.20, 0.20], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 871,  2.439 MP/s [2.44, 2.44], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 1557 bytes (0.238 bpp).
+60 x 871,  0.201 MP/s [0.20, 0.20], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 871,  1.747 MP/s [1.75, 1.75], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 1256 bytes (0.192 bpp).
+60 x 871,  0.191 MP/s [0.19, 0.19], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 871,  9.419 MP/s [9.42, 9.42], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 1037 bytes (0.159 bpp).
+60 x 871,  0.184 MP/s [0.18, 0.18], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 871,  1.374 MP/s [1.37, 1.37], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 1740 bytes (0.234 bpp).
+60 x 991,  0.215 MP/s [0.22, 0.22], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 991,  2.626 MP/s [2.63, 2.63], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 1131 bytes (0.152 bpp).
+60 x 991,  0.227 MP/s [0.23, 0.23], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 991,  2.107 MP/s [2.11, 2.11], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 855 bytes (0.115 bpp).
+60 x 991,  0.213 MP/s [0.21, 0.21], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 991,  2.075 MP/s [2.07, 2.07], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 704 bytes (0.095 bpp).
+60 x 991,  0.237 MP/s [0.24, 0.24], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 991,  1.837 MP/s [1.84, 1.84], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 621 bytes (0.084 bpp).
+60 x 991,  0.234 MP/s [0.23, 0.23], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 991,  5.170 MP/s [5.17, 5.17], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 511 bytes (0.069 bpp).
+60 x 991,  0.265 MP/s [0.26, 0.26], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 991,  4.660 MP/s [4.66, 4.66], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 3548 bytes (0.328 bpp).
+60 x 1442,  0.266 MP/s [0.27, 0.27], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1442,  2.613 MP/s [2.61, 2.61], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 2097 bytes (0.194 bpp).
+60 x 1442,  0.212 MP/s [0.21, 0.21], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1442,  2.205 MP/s [2.20, 2.20], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 1538 bytes (0.142 bpp).
+60 x 1442,  0.245 MP/s [0.24, 0.24], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1442,  3.484 MP/s [3.48, 3.48], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 1270 bytes (0.117 bpp).
+60 x 1442,  0.736 MP/s [0.74, 0.74], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1442,  2.826 MP/s [2.83, 2.83], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 1084 bytes (0.100 bpp).
+60 x 1442,  0.438 MP/s [0.44, 0.44], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1442,  2.091 MP/s [2.09, 2.09], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 945 bytes (0.087 bpp).
+60 x 1442,  0.215 MP/s [0.22, 0.22], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1442,  2.036 MP/s [2.04, 2.04], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 1319 bytes (0.117 bpp).
+60 x 1501,  0.254 MP/s [0.25, 0.25], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1501,  2.682 MP/s [2.68, 2.68], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 897 bytes (0.080 bpp).
+60 x 1501,  0.282 MP/s [0.28, 0.28], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1501,  2.285 MP/s [2.28, 2.28], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 721 bytes (0.064 bpp).
+60 x 1501,  0.238 MP/s [0.24, 0.24], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1501,  3.399 MP/s [3.40, 3.40], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 640 bytes (0.057 bpp).
+60 x 1501,  0.215 MP/s [0.22, 0.22], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1501,  2.024 MP/s [2.02, 2.02], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 558 bytes (0.050 bpp).
+60 x 1501,  0.249 MP/s [0.25, 0.25], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1501,  4.118 MP/s [4.12, 4.12], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 474 bytes (0.042 bpp).
+60 x 1501,  0.264 MP/s [0.26, 0.26], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1501,  3.303 MP/s [3.30, 3.30], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 1397 bytes (0.515 bpp).
+60 x 362,  0.105 MP/s [0.11, 0.11], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 362,  0.736 MP/s [0.74, 0.74], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 881 bytes (0.324 bpp).
+60 x 362,  0.089 MP/s [0.09, 0.09], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 362,  1.073 MP/s [1.07, 1.07], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 682 bytes (0.251 bpp).
+60 x 362,  0.158 MP/s [0.16, 0.16], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 362,  1.189 MP/s [1.19, 1.19], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 563 bytes (0.207 bpp).
+60 x 362,  0.073 MP/s [0.07, 0.07], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 362,  1.043 MP/s [1.04, 1.04], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 477 bytes (0.176 bpp).
+60 x 362,  0.073 MP/s [0.07, 0.07], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 362,  1.110 MP/s [1.11, 1.11], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 409 bytes (0.151 bpp).
+60 x 362,  0.087 MP/s [0.09, 0.09], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 362,  0.878 MP/s [0.88, 0.88], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 1914 bytes (0.327 bpp).
+60 x 781,  0.168 MP/s [0.17, 0.17], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 781,  2.712 MP/s [2.71, 2.71], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 1038 bytes (0.177 bpp).
+60 x 781,  0.205 MP/s [0.20, 0.20], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 781,  0.997 MP/s [1.00, 1.00], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 825 bytes (0.141 bpp).
+60 x 781,  0.226 MP/s [0.23, 0.23], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 781,  2.080 MP/s [2.08, 2.08], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 684 bytes (0.117 bpp).
+60 x 781,  0.251 MP/s [0.25, 0.25], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 781,  3.316 MP/s [3.32, 3.32], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 617 bytes (0.105 bpp).
+60 x 781,  0.303 MP/s [0.30, 0.30], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 781,  3.803 MP/s [3.80, 3.80], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 520 bytes (0.089 bpp).
+60 x 781,  0.248 MP/s [0.25, 0.25], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 781,  3.951 MP/s [3.95, 3.95], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d4.000, effort: 7]
+Compressed to 2806 bytes (0.290 bpp).
+60 x 1291,  0.256 MP/s [0.26, 0.26], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1291,  2.298 MP/s [2.30, 2.30], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d6.000, effort: 7]
+Compressed to 1966 bytes (0.203 bpp).
+60 x 1291,  0.298 MP/s [0.30, 0.30], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1291,  2.817 MP/s [2.82, 2.82], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d8.000, effort: 7]
+Compressed to 1517 bytes (0.157 bpp).
+60 x 1291,  0.253 MP/s [0.25, 0.25], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1291,  3.004 MP/s [3.00, 3.00], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d10.000, effort: 7]
+Compressed to 1216 bytes (0.126 bpp).
+60 x 1291,  0.297 MP/s [0.30, 0.30], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1291,  3.206 MP/s [3.21, 3.21], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d12.000, effort: 7]
+Compressed to 1031 bytes (0.106 bpp).
+60 x 1291,  0.235 MP/s [0.23, 0.23], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1291,  2.898 MP/s [2.90, 2.90], , 1 reps, 128 threads.
+JPEG XL encoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Encoding [VarDCT, d14.000, effort: 7]
+Compressed to 844 bytes (0.087 bpp).
+60 x 1291,  0.245 MP/s [0.24, 0.24], , 1 reps, 128 threads.
+JPEG XL decoder v0.12.0 b508ff73 [AVX2,SSE4,SSE2]
+Decoded to pixels.
+60 x 1291,  2.857 MP/s [2.86, 2.86], , 1 reps, 128 threads.
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=4.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=6.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=8.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=10.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=12.0] failed: Unknown format code 'd' for object of type 'float'
+[QP=14.0] failed: Unknown format code 'd' for object of type 'float'
+Saved CSV: /home/zhaoy/TaCo-Bench/lossy/image/statistics/jpegxl_ObjTac.csv

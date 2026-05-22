@@ -1,0 +1,10 @@
+# CSV outputs are uploaded separately.
+*.csv
+
+# Directories that contain generated CSV outputs.
+bdbr/
+lossless/statistics/
+lossy/image/analysis/
+lossy/image/statistics/
+lossy/video/analyse/
+lossy/video/statistics/

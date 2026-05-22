@@ -1,0 +1,409 @@
+QP= 6 | PSNR=53.37 | SSIM=0.9995 | size=15.80 KB | ratio=1.1267 | reduction=-12.67% | time=4.8915s
+QP=12 | PSNR=48.61 | SSIM=0.9986 | size=9.12 KB | ratio=0.6506 | reduction=34.94% | time=4.0682s
+QP=18 | PSNR=44.02 | SSIM=0.9956 | size=4.83 KB | ratio=0.3447 | reduction=65.53% | time=1.7778s
+QP=24 | PSNR=40.20 | SSIM=0.9878 | size=2.30 KB | ratio=0.1638 | reduction=83.62% | time=1.4379s
+QP=30 | PSNR=36.73 | SSIM=0.9705 | size=1013 B | ratio=0.0706 | reduction=92.94% | time=3.4537s
+QP=36 | PSNR=33.54 | SSIM=0.9313 | size=355 B | ratio=0.0247 | reduction=97.53% | time=3.2641s
+QP=42 | PSNR=31.21 | SSIM=0.8840 | size=123 B | ratio=0.0086 | reduction=99.14% | time=3.5035s
+QP=48 | PSNR=29.54 | SSIM=0.8432 | size=59 B | ratio=0.0041 | reduction=99.59% | time=2.3896s
+QP= 6 | PSNR=74.57 | SSIM=1.0000 | size=753 B | ratio=0.7354 | reduction=26.46% | time=3.5686s
+QP=12 | PSNR=69.88 | SSIM=1.0000 | size=652 B | ratio=0.6367 | reduction=36.33% | time=1.4801s
+QP=18 | PSNR=64.77 | SSIM=1.0000 | size=525 B | ratio=0.5127 | reduction=48.73% | time=1.4499s
+QP=24 | PSNR=58.86 | SSIM=0.9999 | size=472 B | ratio=0.4609 | reduction=53.91% | time=2.3990s
+QP=30 | PSNR=49.01 | SSIM=0.9994 | size=394 B | ratio=0.3848 | reduction=61.52% | time=3.1042s
+QP=36 | PSNR=42.20 | SSIM=0.9965 | size=215 B | ratio=0.2100 | reduction=79.00% | time=1.4285s
+QP=42 | PSNR=37.93 | SSIM=0.9868 | size=80 B | ratio=0.0781 | reduction=92.19% | time=1.4876s
+QP=48 | PSNR=36.29 | SSIM=0.9784 | size=48 B | ratio=0.0469 | reduction=95.31% | time=4.9967s
+QP= 6 | PSNR=54.10 | SSIM=0.9996 | size=28.42 KB | ratio=1.1608 | reduction=-16.08% | time=9.7532s
+QP=12 | PSNR=49.35 | SSIM=0.9989 | size=16.37 KB | ratio=0.6686 | reduction=33.14% | time=4.8793s
+QP=18 | PSNR=44.77 | SSIM=0.9966 | size=8.80 KB | ratio=0.3594 | reduction=64.06% | time=4.2411s
+QP=24 | PSNR=40.99 | SSIM=0.9909 | size=4.45 KB | ratio=0.1817 | reduction=81.83% | time=2.6072s
+QP=30 | PSNR=37.20 | SSIM=0.9758 | size=1.94 KB | ratio=0.0792 | reduction=92.08% | time=6.9179s
+QP=36 | PSNR=33.89 | SSIM=0.9470 | size=782 B | ratio=0.0312 | reduction=96.88% | time=6.7770s
+QP=42 | PSNR=31.06 | SSIM=0.8933 | size=263 B | ratio=0.0105 | reduction=98.95% | time=8.2224s
+QP=48 | PSNR=29.09 | SSIM=0.8369 | size=95 B | ratio=0.0038 | reduction=99.62% | time=8.2607s
+QP= 6 | PSNR=57.09 | SSIM=0.9999 | size=14.29 KB | ratio=0.9355 | reduction=6.45% | time=6.3105s
+QP=12 | PSNR=52.44 | SSIM=0.9996 | size=9.53 KB | ratio=0.6239 | reduction=37.61% | time=6.3859s
+QP=18 | PSNR=47.37 | SSIM=0.9987 | size=6.24 KB | ratio=0.4085 | reduction=59.15% | time=3.2281s
+QP=24 | PSNR=42.51 | SSIM=0.9955 | size=3.66 KB | ratio=0.2394 | reduction=76.06% | time=1.5673s
+QP=30 | PSNR=37.67 | SSIM=0.9864 | size=1.98 KB | ratio=0.1297 | reduction=87.03% | time=4.1848s
+QP=36 | PSNR=33.23 | SSIM=0.9650 | size=906 B | ratio=0.0579 | reduction=94.21% | time=4.4899s
+QP=42 | PSNR=29.56 | SSIM=0.9163 | size=312 B | ratio=0.0200 | reduction=98.00% | time=4.0072s
+QP=48 | PSNR=27.18 | SSIM=0.8374 | size=116 B | ratio=0.0074 | reduction=99.26% | time=7.4374s
+QP= 6 | PSNR=54.48 | SSIM=0.9996 | size=14.44 KB | ratio=1.2205 | reduction=-22.05% | time=6.8426s
+QP=12 | PSNR=49.65 | SSIM=0.9989 | size=8.54 KB | ratio=0.7224 | reduction=27.76% | time=2.1100s
+QP=18 | PSNR=44.77 | SSIM=0.9962 | size=4.54 KB | ratio=0.3841 | reduction=61.59% | time=2.3988s
+QP=24 | PSNR=40.77 | SSIM=0.9892 | size=2.25 KB | ratio=0.1900 | reduction=81.00% | time=4.9768s
+QP=30 | PSNR=37.19 | SSIM=0.9733 | size=1.03 KB | ratio=0.0868 | reduction=91.32% | time=4.8706s
+QP=36 | PSNR=33.93 | SSIM=0.9420 | size=388 B | ratio=0.0320 | reduction=96.80% | time=4.7969s
+QP=42 | PSNR=31.28 | SSIM=0.8998 | size=129 B | ratio=0.0107 | reduction=98.93% | time=2.6265s
+QP=48 | PSNR=29.29 | SSIM=0.8609 | size=62 B | ratio=0.0051 | reduction=99.49% | time=1.9111s
+QP= 6 | PSNR=56.84 | SSIM=0.9998 | size=22.11 KB | ratio=1.0949 | reduction=-9.49% | time=11.2296s
+QP=12 | PSNR=51.58 | SSIM=0.9993 | size=13.42 KB | ratio=0.6645 | reduction=33.55% | time=10.6206s
+QP=18 | PSNR=46.37 | SSIM=0.9975 | size=7.43 KB | ratio=0.3680 | reduction=63.20% | time=1.6724s
+QP=24 | PSNR=42.16 | SSIM=0.9927 | size=3.83 KB | ratio=0.1898 | reduction=81.02% | time=8.4015s
+QP=30 | PSNR=38.07 | SSIM=0.9800 | size=1.72 KB | ratio=0.0853 | reduction=91.47% | time=7.0909s
+QP=36 | PSNR=34.73 | SSIM=0.9529 | size=747 B | ratio=0.0361 | reduction=96.39% | time=5.0218s
+QP=42 | PSNR=32.10 | SSIM=0.9163 | size=280 B | ratio=0.0135 | reduction=98.65% | time=7.8462s
+QP=48 | PSNR=29.92 | SSIM=0.8724 | size=74 B | ratio=0.0036 | reduction=99.64% | time=8.9487s
+QP= 6 | PSNR=54.52 | SSIM=0.9997 | size=27.22 KB | ratio=1.3015 | reduction=-30.15% | time=13.8264s
+QP=12 | PSNR=49.46 | SSIM=0.9991 | size=16.51 KB | ratio=0.7895 | reduction=21.05% | time=13.4261s
+QP=18 | PSNR=44.60 | SSIM=0.9969 | size=8.90 KB | ratio=0.4255 | reduction=57.45% | time=9.9551s
+QP=24 | PSNR=40.70 | SSIM=0.9916 | size=4.66 KB | ratio=0.2230 | reduction=77.70% | time=7.5096s
+QP=30 | PSNR=36.77 | SSIM=0.9785 | size=2.17 KB | ratio=0.1037 | reduction=89.63% | time=0.9269s
+QP=36 | PSNR=33.30 | SSIM=0.9508 | size=937 B | ratio=0.0438 | reduction=95.62% | time=3.5612s
+QP=42 | PSNR=30.09 | SSIM=0.9016 | size=304 B | ratio=0.0142 | reduction=98.58% | time=3.3612s
+QP=48 | PSNR=27.99 | SSIM=0.8413 | size=109 B | ratio=0.0051 | reduction=99.49% | time=3.8984s
+QP= 6 | PSNR=56.43 | SSIM=0.9998 | size=13.18 KB | ratio=1.2345 | reduction=-23.45% | time=4.8397s
+QP=12 | PSNR=51.23 | SSIM=0.9993 | size=8.05 KB | ratio=0.7537 | reduction=24.63% | time=7.9007s
+QP=18 | PSNR=46.00 | SSIM=0.9975 | size=4.59 KB | ratio=0.4300 | reduction=57.00% | time=8.9696s
+QP=24 | PSNR=41.84 | SSIM=0.9931 | size=2.55 KB | ratio=0.2386 | reduction=76.14% | time=2.8932s
+QP=30 | PSNR=37.61 | SSIM=0.9797 | size=1.28 KB | ratio=0.1199 | reduction=88.01% | time=4.7040s
+QP=36 | PSNR=34.00 | SSIM=0.9516 | size=560 B | ratio=0.0512 | reduction=94.88% | time=4.3484s
+QP=42 | PSNR=30.52 | SSIM=0.8926 | size=210 B | ratio=0.0192 | reduction=98.08% | time=2.6001s
+QP=48 | PSNR=28.10 | SSIM=0.8309 | size=68 B | ratio=0.0062 | reduction=99.38% | time=2.8236s
+QP= 6 | PSNR=55.20 | SSIM=0.9997 | size=18.71 KB | ratio=1.0454 | reduction=-4.54% | time=2.8410s
+QP=12 | PSNR=50.34 | SSIM=0.9989 | size=10.75 KB | ratio=0.6009 | reduction=39.91% | time=10.5397s
+QP=18 | PSNR=45.61 | SSIM=0.9966 | size=5.82 KB | ratio=0.3251 | reduction=67.49% | time=7.6430s
+QP=24 | PSNR=41.73 | SSIM=0.9912 | size=2.88 KB | ratio=0.1609 | reduction=83.91% | time=3.4883s
+QP=30 | PSNR=37.87 | SSIM=0.9783 | size=1.21 KB | ratio=0.0678 | reduction=93.22% | time=6.3772s
+QP=36 | PSNR=34.47 | SSIM=0.9524 | size=461 B | ratio=0.0252 | reduction=97.48% | time=4.8919s
+QP=42 | PSNR=31.81 | SSIM=0.9114 | size=162 B | ratio=0.0088 | reduction=99.12% | time=3.0613s
+QP=48 | PSNR=30.02 | SSIM=0.8571 | size=66 B | ratio=0.0036 | reduction=99.64% | time=1.3378s
+QP= 6 | PSNR=55.93 | SSIM=0.9998 | size=23.19 KB | ratio=1.1393 | reduction=-13.93% | time=11.5027s
+QP=12 | PSNR=51.09 | SSIM=0.9992 | size=13.54 KB | ratio=0.6655 | reduction=33.45% | time=17.0531s
+QP=18 | PSNR=46.26 | SSIM=0.9974 | size=7.52 KB | ratio=0.3694 | reduction=63.06% | time=14.0959s
+QP=24 | PSNR=42.25 | SSIM=0.9926 | size=3.86 KB | ratio=0.1898 | reduction=81.02% | time=2.8729s
+QP=30 | PSNR=38.45 | SSIM=0.9811 | size=1.86 KB | ratio=0.0912 | reduction=90.88% | time=5.8059s
+QP=36 | PSNR=34.83 | SSIM=0.9543 | size=830 B | ratio=0.0398 | reduction=96.02% | time=5.2154s
+QP=42 | PSNR=31.60 | SSIM=0.8991 | size=248 B | ratio=0.0119 | reduction=98.81% | time=9.2820s
+QP=48 | PSNR=29.46 | SSIM=0.8458 | size=70 B | ratio=0.0034 | reduction=99.66% | time=2.6443s
+QP= 6 | PSNR=54.29 | SSIM=0.9998 | size=13.96 KB | ratio=1.8337 | reduction=-83.37% | time=6.1745s
+QP=12 | PSNR=49.03 | SSIM=0.9995 | size=9.57 KB | ratio=1.2566 | reduction=-25.66% | time=4.2586s
+QP=18 | PSNR=43.77 | SSIM=0.9982 | size=5.44 KB | ratio=0.7149 | reduction=28.51% | time=5.5123s
+QP=24 | PSNR=39.65 | SSIM=0.9944 | size=2.77 KB | ratio=0.3638 | reduction=63.62% | time=5.4364s
+QP=30 | PSNR=35.41 | SSIM=0.9832 | size=1.41 KB | ratio=0.1845 | reduction=81.55% | time=3.4267s
+QP=36 | PSNR=31.96 | SSIM=0.9581 | size=782 B | ratio=0.1003 | reduction=89.97% | time=2.0819s
+QP=42 | PSNR=27.99 | SSIM=0.8909 | size=347 B | ratio=0.0445 | reduction=95.55% | time=3.5950s
+QP=48 | PSNR=25.10 | SSIM=0.7813 | size=150 B | ratio=0.0192 | reduction=98.08% | time=1.1705s
+QP= 6 | PSNR=53.72 | SSIM=0.9996 | size=15.91 KB | ratio=1.5058 | reduction=-50.58% | time=8.2148s
+QP=12 | PSNR=48.60 | SSIM=0.9990 | size=10.47 KB | ratio=0.9910 | reduction=0.90% | time=4.2938s
+QP=18 | PSNR=43.14 | SSIM=0.9961 | size=5.59 KB | ratio=0.5293 | reduction=47.07% | time=4.9310s
+QP=24 | PSNR=39.13 | SSIM=0.9888 | size=2.78 KB | ratio=0.2632 | reduction=73.68% | time=4.2082s
+QP=30 | PSNR=35.41 | SSIM=0.9690 | size=1.21 KB | ratio=0.1145 | reduction=88.55% | time=1.9063s
+QP=36 | PSNR=32.13 | SSIM=0.9291 | size=454 B | ratio=0.0420 | reduction=95.80% | time=2.9032s
+QP=42 | PSNR=29.29 | SSIM=0.8535 | size=144 B | ratio=0.0133 | reduction=98.67% | time=2.6032s
+QP=48 | PSNR=27.77 | SSIM=0.7963 | size=63 B | ratio=0.0058 | reduction=99.42% | time=2.1087s
+QP= 6 | PSNR=61.01 | SSIM=0.9999 | size=4.64 KB | ratio=0.9527 | reduction=4.73% | time=5.7065s
+QP=12 | PSNR=56.11 | SSIM=0.9996 | size=2.73 KB | ratio=0.5603 | reduction=43.97% | time=8.2831s
+QP=18 | PSNR=51.14 | SSIM=0.9988 | size=1.34 KB | ratio=0.2749 | reduction=72.51% | time=2.3884s
+QP=24 | PSNR=47.35 | SSIM=0.9966 | size=617 B | ratio=0.1237 | reduction=87.63% | time=2.1620s
+QP=30 | PSNR=43.81 | SSIM=0.9922 | size=248 B | ratio=0.0497 | reduction=95.03% | time=3.2455s
+QP=36 | PSNR=41.31 | SSIM=0.9875 | size=107 B | ratio=0.0215 | reduction=97.85% | time=4.2770s
+QP=42 | PSNR=39.37 | SSIM=0.9801 | size=62 B | ratio=0.0124 | reduction=98.76% | time=3.9489s
+QP=48 | PSNR=37.25 | SSIM=0.9753 | size=46 B | ratio=0.0092 | reduction=99.08% | time=5.1204s
+QP= 6 | PSNR=56.34 | SSIM=0.9998 | size=26.48 KB | ratio=1.2214 | reduction=-22.14% | time=3.5069s
+QP=12 | PSNR=51.12 | SSIM=0.9992 | size=16.17 KB | ratio=0.7459 | reduction=25.41% | time=10.5202s
+QP=18 | PSNR=46.14 | SSIM=0.9973 | size=8.60 KB | ratio=0.3969 | reduction=60.31% | time=12.4210s
+QP=24 | PSNR=41.98 | SSIM=0.9918 | size=4.15 KB | ratio=0.1913 | reduction=80.87% | time=11.2741s
+QP=30 | PSNR=38.32 | SSIM=0.9787 | size=1.79 KB | ratio=0.0824 | reduction=91.76% | time=7.6048s
+QP=36 | PSNR=34.97 | SSIM=0.9502 | size=639 B | ratio=0.0288 | reduction=97.12% | time=11.0078s
+QP=42 | PSNR=32.30 | SSIM=0.9022 | size=169 B | ratio=0.0076 | reduction=99.24% | time=7.2699s
+QP=48 | PSNR=30.76 | SSIM=0.8654 | size=68 B | ratio=0.0031 | reduction=99.69% | time=5.3185s
+QP= 6 | PSNR=54.64 | SSIM=0.9998 | size=16.33 KB | ratio=1.4991 | reduction=-49.91% | time=5.2253s
+QP=12 | PSNR=49.46 | SSIM=0.9994 | size=10.72 KB | ratio=0.9840 | reduction=1.60% | time=5.7247s
+QP=18 | PSNR=44.40 | SSIM=0.9981 | size=5.87 KB | ratio=0.5390 | reduction=46.10% | time=5.3059s
+QP=24 | PSNR=40.23 | SSIM=0.9943 | size=3.09 KB | ratio=0.2836 | reduction=71.64% | time=3.4300s
+QP=30 | PSNR=36.32 | SSIM=0.9845 | size=1.58 KB | ratio=0.1455 | reduction=85.45% | time=4.4607s
+QP=36 | PSNR=32.54 | SSIM=0.9589 | size=751 B | ratio=0.0673 | reduction=93.27% | time=3.6502s
+QP=42 | PSNR=28.68 | SSIM=0.8936 | size=308 B | ratio=0.0276 | reduction=97.24% | time=4.8661s
+QP=48 | PSNR=26.39 | SSIM=0.8064 | size=135 B | ratio=0.0121 | reduction=98.79% | time=1.5533s
+QP= 6 | PSNR=62.15 | SSIM=0.9999 | size=3.83 KB | ratio=0.8127 | reduction=18.73% | time=5.1686s
+QP=12 | PSNR=57.18 | SSIM=0.9997 | size=2.42 KB | ratio=0.5118 | reduction=48.82% | time=5.9434s
+QP=18 | PSNR=51.77 | SSIM=0.9991 | size=1.49 KB | ratio=0.3150 | reduction=68.50% | time=3.1184s
+QP=24 | PSNR=47.21 | SSIM=0.9972 | size=861 B | ratio=0.1782 | reduction=82.18% | time=5.3453s
+QP=30 | PSNR=42.68 | SSIM=0.9920 | size=445 B | ratio=0.0921 | reduction=90.79% | time=2.8794s
+QP=36 | PSNR=39.04 | SSIM=0.9844 | size=206 B | ratio=0.0426 | reduction=95.74% | time=2.3632s
+QP=42 | PSNR=36.17 | SSIM=0.9751 | size=84 B | ratio=0.0174 | reduction=98.26% | time=1.2821s
+QP=48 | PSNR=33.27 | SSIM=0.9591 | size=47 B | ratio=0.0097 | reduction=99.03% | time=4.5368s
+QP= 6 | PSNR=56.49 | SSIM=0.9998 | size=25.01 KB | ratio=1.1858 | reduction=-18.58% | time=16.4342s
+QP=12 | PSNR=51.62 | SSIM=0.9995 | size=15.12 KB | ratio=0.7167 | reduction=28.33% | time=6.0444s
+QP=18 | PSNR=46.87 | SSIM=0.9983 | size=8.67 KB | ratio=0.4108 | reduction=58.92% | time=7.1283s
+QP=24 | PSNR=42.83 | SSIM=0.9952 | size=4.70 KB | ratio=0.2229 | reduction=77.71% | time=10.9931s
+QP=30 | PSNR=38.46 | SSIM=0.9851 | size=2.28 KB | ratio=0.1079 | reduction=89.21% | time=8.0685s
+QP=36 | PSNR=34.77 | SSIM=0.9620 | size=1.04 KB | ratio=0.0494 | reduction=95.06% | time=7.0004s
+QP=42 | PSNR=31.25 | SSIM=0.9102 | size=440 B | ratio=0.0204 | reduction=97.96% | time=7.3599s
+QP=48 | PSNR=28.88 | SSIM=0.8446 | size=157 B | ratio=0.0073 | reduction=99.27% | time=8.4285s
+QP= 6 | PSNR=56.21 | SSIM=0.9998 | size=22.30 KB | ratio=1.0728 | reduction=-7.28% | time=11.8445s
+QP=12 | PSNR=51.22 | SSIM=0.9994 | size=14.30 KB | ratio=0.6879 | reduction=31.21% | time=9.0753s
+QP=18 | PSNR=46.06 | SSIM=0.9980 | size=8.61 KB | ratio=0.4143 | reduction=58.57% | time=8.8038s
+QP=24 | PSNR=41.36 | SSIM=0.9934 | size=4.61 KB | ratio=0.2218 | reduction=77.82% | time=5.8622s
+QP=30 | PSNR=37.18 | SSIM=0.9807 | size=2.12 KB | ratio=0.1019 | reduction=89.81% | time=6.0179s
+QP=36 | PSNR=33.58 | SSIM=0.9496 | size=809 B | ratio=0.0380 | reduction=96.20% | time=7.1969s
+QP=42 | PSNR=30.80 | SSIM=0.8965 | size=213 B | ratio=0.0100 | reduction=99.00% | time=0.8094s
+QP=48 | PSNR=29.23 | SSIM=0.8453 | size=82 B | ratio=0.0039 | reduction=99.61% | time=7.1325s
+QP= 6 | PSNR=56.53 | SSIM=0.9998 | size=16.75 KB | ratio=0.9992 | reduction=0.08% | time=6.9485s
+QP=12 | PSNR=51.45 | SSIM=0.9992 | size=9.74 KB | ratio=0.5812 | reduction=41.88% | time=5.1988s
+QP=18 | PSNR=46.66 | SSIM=0.9974 | size=5.32 KB | ratio=0.3171 | reduction=68.29% | time=10.2644s
+QP=24 | PSNR=42.49 | SSIM=0.9927 | size=2.69 KB | ratio=0.1605 | reduction=83.95% | time=2.1342s
+QP=30 | PSNR=38.46 | SSIM=0.9804 | size=1.21 KB | ratio=0.0721 | reduction=92.79% | time=8.9585s
+QP=36 | PSNR=35.19 | SSIM=0.9583 | size=480 B | ratio=0.0280 | reduction=97.20% | time=2.1844s
+QP=42 | PSNR=32.22 | SSIM=0.9195 | size=175 B | ratio=0.0102 | reduction=98.98% | time=4.2595s
+QP=48 | PSNR=29.78 | SSIM=0.8665 | size=60 B | ratio=0.0035 | reduction=99.65% | time=3.7981s
+QP= 6 | PSNR=56.33 | SSIM=0.9998 | size=12.11 KB | ratio=1.4571 | reduction=-45.71% | time=5.3433s
+QP=12 | PSNR=50.94 | SSIM=0.9992 | size=7.99 KB | ratio=0.9615 | reduction=3.85% | time=2.2175s
+QP=18 | PSNR=45.23 | SSIM=0.9970 | size=4.25 KB | ratio=0.5118 | reduction=48.82% | time=1.3523s
+QP=24 | PSNR=41.43 | SSIM=0.9915 | size=2.02 KB | ratio=0.2427 | reduction=75.73% | time=4.1947s
+QP=30 | PSNR=37.46 | SSIM=0.9759 | size=895 B | ratio=0.1052 | reduction=89.48% | time=4.1258s
+QP=36 | PSNR=34.13 | SSIM=0.9490 | size=334 B | ratio=0.0392 | reduction=96.08% | time=3.0622s
+QP=42 | PSNR=31.94 | SSIM=0.9162 | size=133 B | ratio=0.0156 | reduction=98.44% | time=3.2318s
+QP=48 | PSNR=29.44 | SSIM=0.8810 | size=63 B | ratio=0.0074 | reduction=99.26% | time=5.0393s
+QP= 6 | PSNR=70.42 | SSIM=1.0000 | size=1.42 KB | ratio=0.8951 | reduction=10.49% | time=2.9600s
+QP=12 | PSNR=64.14 | SSIM=1.0000 | size=1.14 KB | ratio=0.7212 | reduction=27.88% | time=1.7067s
+QP=18 | PSNR=56.68 | SSIM=0.9997 | size=817 B | ratio=0.5040 | reduction=49.60% | time=2.7364s
+QP=24 | PSNR=50.84 | SSIM=0.9989 | size=412 B | ratio=0.2542 | reduction=74.58% | time=1.7452s
+QP=30 | PSNR=46.85 | SSIM=0.9962 | size=163 B | ratio=0.1006 | reduction=89.94% | time=2.8859s
+QP=36 | PSNR=44.48 | SSIM=0.9929 | size=98 B | ratio=0.0605 | reduction=93.95% | time=1.6140s
+QP=42 | PSNR=41.19 | SSIM=0.9908 | size=66 B | ratio=0.0407 | reduction=95.93% | time=1.4260s
+QP=48 | PSNR=38.45 | SSIM=0.9851 | size=48 B | ratio=0.0296 | reduction=97.04% | time=3.9729s
+QP= 6 | PSNR=58.99 | SSIM=0.9998 | size=7.77 KB | ratio=1.5683 | reduction=-56.83% | time=3.7098s
+QP=12 | PSNR=54.42 | SSIM=0.9996 | size=5.49 KB | ratio=1.1092 | reduction=-10.92% | time=2.8708s
+QP=18 | PSNR=48.27 | SSIM=0.9986 | size=3.60 KB | ratio=0.7263 | reduction=27.37% | time=5.8517s
+QP=24 | PSNR=43.39 | SSIM=0.9955 | size=1.94 KB | ratio=0.3910 | reduction=60.90% | time=5.4095s
+QP=30 | PSNR=38.30 | SSIM=0.9836 | size=799 B | ratio=0.1576 | reduction=84.24% | time=1.2976s
+QP=36 | PSNR=34.81 | SSIM=0.9576 | size=270 B | ratio=0.0532 | reduction=94.68% | time=3.1069s
+QP=42 | PSNR=32.52 | SSIM=0.9305 | size=93 B | ratio=0.0183 | reduction=98.17% | time=4.2475s
+QP=48 | PSNR=31.55 | SSIM=0.9111 | size=54 B | ratio=0.0106 | reduction=98.94% | time=2.5710s
+QP= 6 | PSNR=56.94 | SSIM=0.9996 | size=9.67 KB | ratio=0.7611 | reduction=23.89% | time=2.9760s
+QP=12 | PSNR=52.95 | SSIM=0.9991 | size=5.26 KB | ratio=0.4137 | reduction=58.63% | time=5.2829s
+QP=18 | PSNR=48.60 | SSIM=0.9974 | size=2.57 KB | ratio=0.2025 | reduction=79.75% | time=6.5220s
+QP=24 | PSNR=44.83 | SSIM=0.9933 | size=1.15 KB | ratio=0.0906 | reduction=90.94% | time=4.0370s
+QP=30 | PSNR=41.46 | SSIM=0.9826 | size=407 B | ratio=0.0313 | reduction=96.87% | time=4.5900s
+QP=36 | PSNR=39.02 | SSIM=0.9688 | size=128 B | ratio=0.0098 | reduction=99.02% | time=4.8810s
+QP=42 | PSNR=37.62 | SSIM=0.9609 | size=62 B | ratio=0.0048 | reduction=99.52% | time=1.7700s
+QP=48 | PSNR=36.22 | SSIM=0.9575 | size=47 B | ratio=0.0036 | reduction=99.64% | time=0.8946s
+QP= 6 | PSNR=66.38 | SSIM=1.0000 | size=3.47 KB | ratio=0.7250 | reduction=27.50% | time=8.3540s
+QP=12 | PSNR=61.19 | SSIM=0.9999 | size=2.33 KB | ratio=0.4873 | reduction=51.27% | time=8.3408s
+QP=18 | PSNR=55.87 | SSIM=0.9997 | size=1.43 KB | ratio=0.2981 | reduction=70.19% | time=3.9689s
+QP=24 | PSNR=51.68 | SSIM=0.9992 | size=780 B | ratio=0.1590 | reduction=84.10% | time=6.6220s
+QP=30 | PSNR=47.76 | SSIM=0.9982 | size=400 B | ratio=0.0815 | reduction=91.85% | time=3.7254s
+QP=36 | PSNR=43.55 | SSIM=0.9948 | size=169 B | ratio=0.0345 | reduction=96.55% | time=10.7278s
+QP=42 | PSNR=40.99 | SSIM=0.9912 | size=99 B | ratio=0.0202 | reduction=97.98% | time=5.3633s
+QP=48 | PSNR=35.25 | SSIM=0.9843 | size=62 B | ratio=0.0126 | reduction=98.74% | time=6.4688s
+QP= 6 | PSNR=55.47 | SSIM=0.9998 | size=32.99 KB | ratio=1.4206 | reduction=-42.06% | time=9.9082s
+QP=12 | PSNR=50.27 | SSIM=0.9995 | size=22.15 KB | ratio=0.9537 | reduction=4.63% | time=12.7163s
+QP=18 | PSNR=45.06 | SSIM=0.9982 | size=13.45 KB | ratio=0.5790 | reduction=42.10% | time=15.2483s
+QP=24 | PSNR=40.50 | SSIM=0.9942 | size=7.25 KB | ratio=0.3123 | reduction=68.77% | time=4.8667s
+QP=30 | PSNR=36.23 | SSIM=0.9831 | size=3.45 KB | ratio=0.1485 | reduction=85.15% | time=7.9031s
+QP=36 | PSNR=32.40 | SSIM=0.9557 | size=1.43 KB | ratio=0.0614 | reduction=93.86% | time=9.8090s
+QP=42 | PSNR=29.35 | SSIM=0.9009 | size=503 B | ratio=0.0212 | reduction=97.88% | time=7.8086s
+QP=48 | PSNR=27.04 | SSIM=0.8085 | size=156 B | ratio=0.0066 | reduction=99.34% | time=10.6891s
+QP= 6 | PSNR=57.07 | SSIM=0.9998 | size=22.73 KB | ratio=1.3611 | reduction=-36.11% | time=12.3099s
+QP=12 | PSNR=51.78 | SSIM=0.9994 | size=14.18 KB | ratio=0.8494 | reduction=15.06% | time=12.1293s
+QP=18 | PSNR=46.67 | SSIM=0.9980 | size=7.74 KB | ratio=0.4636 | reduction=53.64% | time=1.8236s
+QP=24 | PSNR=42.67 | SSIM=0.9941 | size=4.02 KB | ratio=0.2407 | reduction=75.93% | time=12.9307s
+QP=30 | PSNR=38.77 | SSIM=0.9829 | size=1.94 KB | ratio=0.1163 | reduction=88.37% | time=9.8136s
+QP=36 | PSNR=35.08 | SSIM=0.9549 | size=839 B | ratio=0.0491 | reduction=95.09% | time=1.1158s
+QP=42 | PSNR=31.70 | SSIM=0.9042 | size=256 B | ratio=0.0150 | reduction=98.50% | time=10.2588s
+QP=48 | PSNR=29.83 | SSIM=0.8549 | size=109 B | ratio=0.0064 | reduction=99.36% | time=5.3046s
+QP= 6 | PSNR=66.37 | SSIM=1.0000 | size=3.35 KB | ratio=1.4840 | reduction=-48.40% | time=0.8871s
+QP=12 | PSNR=62.30 | SSIM=1.0000 | size=2.63 KB | ratio=1.1670 | reduction=-16.70% | time=8.0649s
+QP=18 | PSNR=56.80 | SSIM=0.9999 | size=2.13 KB | ratio=0.9438 | reduction=5.62% | time=8.8182s
+QP=24 | PSNR=50.92 | SSIM=0.9994 | size=1.73 KB | ratio=0.7660 | reduction=23.40% | time=9.3194s
+QP=30 | PSNR=43.86 | SSIM=0.9968 | size=1.23 KB | ratio=0.5437 | reduction=45.63% | time=1.6325s
+QP=36 | PSNR=37.81 | SSIM=0.9855 | size=473 B | ratio=0.2046 | reduction=79.54% | time=8.6806s
+QP=42 | PSNR=34.33 | SSIM=0.9570 | size=128 B | ratio=0.0554 | reduction=94.46% | time=5.4662s
+QP=48 | PSNR=33.54 | SSIM=0.9363 | size=52 B | ratio=0.0225 | reduction=97.75% | time=3.1410s
+QP= 6 | PSNR=57.57 | SSIM=0.9999 | size=12.67 KB | ratio=1.3584 | reduction=-35.84% | time=6.1340s
+QP=12 | PSNR=52.51 | SSIM=0.9996 | size=8.58 KB | ratio=0.9194 | reduction=8.06% | time=6.7189s
+QP=18 | PSNR=47.05 | SSIM=0.9986 | size=5.40 KB | ratio=0.5785 | reduction=42.15% | time=4.0124s
+QP=24 | PSNR=42.36 | SSIM=0.9956 | size=3.12 KB | ratio=0.3340 | reduction=66.60% | time=1.1463s
+QP=30 | PSNR=37.73 | SSIM=0.9867 | size=1.60 KB | ratio=0.1716 | reduction=82.84% | time=6.0843s
+QP=36 | PSNR=33.34 | SSIM=0.9608 | size=692 B | ratio=0.0725 | reduction=92.75% | time=4.7873s
+QP=42 | PSNR=30.04 | SSIM=0.9116 | size=263 B | ratio=0.0275 | reduction=97.25% | time=3.7602s
+QP=48 | PSNR=27.40 | SSIM=0.8273 | size=84 B | ratio=0.0088 | reduction=99.12% | time=2.3321s
+QP= 6 | PSNR=60.01 | SSIM=0.9999 | size=7.75 KB | ratio=1.9441 | reduction=-94.41% | time=5.1821s
+QP=12 | PSNR=54.93 | SSIM=0.9998 | size=5.67 KB | ratio=1.4233 | reduction=-42.33% | time=1.1501s
+QP=18 | PSNR=48.81 | SSIM=0.9993 | size=4.32 KB | ratio=1.0833 | reduction=-8.33% | time=4.9242s
+QP=24 | PSNR=43.22 | SSIM=0.9971 | size=2.68 KB | ratio=0.6727 | reduction=32.73% | time=6.9668s
+QP=30 | PSNR=37.74 | SSIM=0.9878 | size=1.19 KB | ratio=0.2974 | reduction=70.26% | time=3.1678s
+QP=36 | PSNR=33.63 | SSIM=0.9587 | size=461 B | ratio=0.1129 | reduction=88.71% | time=5.1288s
+QP=42 | PSNR=30.18 | SSIM=0.9143 | size=149 B | ratio=0.0365 | reduction=96.35% | time=4.9239s
+QP=48 | PSNR=27.88 | SSIM=0.8794 | size=67 B | ratio=0.0164 | reduction=98.36% | time=1.1043s
+QP= 6 | PSNR=55.50 | SSIM=0.9998 | size=23.83 KB | ratio=1.2927 | reduction=-29.27% | time=10.5055s
+QP=12 | PSNR=50.51 | SSIM=0.9994 | size=15.26 KB | ratio=0.8280 | reduction=17.20% | time=14.6653s
+QP=18 | PSNR=45.58 | SSIM=0.9980 | size=9.40 KB | ratio=0.5097 | reduction=49.03% | time=11.1656s
+QP=24 | PSNR=41.15 | SSIM=0.9939 | size=5.41 KB | ratio=0.2937 | reduction=70.63% | time=3.4331s
+QP=30 | PSNR=36.63 | SSIM=0.9816 | size=2.70 KB | ratio=0.1466 | reduction=85.34% | time=3.6183s
+QP=36 | PSNR=32.62 | SSIM=0.9534 | size=1.13 KB | ratio=0.0613 | reduction=93.87% | time=8.5563s
+QP=42 | PSNR=29.45 | SSIM=0.9035 | size=459 B | ratio=0.0243 | reduction=97.57% | time=7.2431s
+QP=48 | PSNR=26.76 | SSIM=0.8192 | size=166 B | ratio=0.0088 | reduction=99.12% | time=5.3691s
+QP= 6 | PSNR=65.75 | SSIM=1.0000 | size=7.56 KB | ratio=1.3821 | reduction=-38.21% | time=14.6592s
+QP=12 | PSNR=60.43 | SSIM=0.9999 | size=5.86 KB | ratio=1.0713 | reduction=-7.13% | time=15.6813s
+QP=18 | PSNR=54.09 | SSIM=0.9996 | size=4.55 KB | ratio=0.8330 | reduction=16.70% | time=9.4146s
+QP=24 | PSNR=47.65 | SSIM=0.9983 | size=3.06 KB | ratio=0.5602 | reduction=43.98% | time=8.9468s
+QP=30 | PSNR=41.64 | SSIM=0.9909 | size=1.14 KB | ratio=0.2085 | reduction=79.15% | time=8.6373s
+QP=36 | PSNR=38.17 | SSIM=0.9761 | size=280 B | ratio=0.0500 | reduction=95.00% | time=8.6657s
+QP=42 | PSNR=36.30 | SSIM=0.9626 | size=71 B | ratio=0.0127 | reduction=98.73% | time=8.3690s
+QP=48 | PSNR=35.27 | SSIM=0.9610 | size=51 B | ratio=0.0091 | reduction=99.09% | time=10.0279s
+QP= 6 | PSNR=53.72 | SSIM=0.9996 | size=27.44 KB | ratio=1.4578 | reduction=-45.78% | time=6.1220s
+QP=12 | PSNR=48.51 | SSIM=0.9988 | size=17.12 KB | ratio=0.9094 | reduction=9.06% | time=7.1374s
+QP=18 | PSNR=43.48 | SSIM=0.9959 | size=9.44 KB | ratio=0.5014 | reduction=49.86% | time=9.1957s
+QP=24 | PSNR=39.32 | SSIM=0.9880 | size=4.47 KB | ratio=0.2376 | reduction=76.24% | time=4.6423s
+QP=30 | PSNR=35.74 | SSIM=0.9695 | size=1.90 KB | ratio=0.1010 | reduction=89.90% | time=6.8853s
+QP=36 | PSNR=32.61 | SSIM=0.9312 | size=716 B | ratio=0.0371 | reduction=96.29% | time=3.4976s
+QP=42 | PSNR=29.78 | SSIM=0.8606 | size=178 B | ratio=0.0092 | reduction=99.08% | time=1.9683s
+QP=48 | PSNR=28.39 | SSIM=0.7986 | size=64 B | ratio=0.0033 | reduction=99.67% | time=3.6736s
+QP= 6 | PSNR=62.32 | SSIM=0.9999 | size=4.32 KB | ratio=1.5549 | reduction=-55.49% | time=2.5908s
+QP=12 | PSNR=56.61 | SSIM=0.9997 | size=3.16 KB | ratio=1.1392 | reduction=-13.92% | time=1.7342s
+QP=18 | PSNR=50.68 | SSIM=0.9991 | size=2.03 KB | ratio=0.7317 | reduction=26.83% | time=4.3158s
+QP=24 | PSNR=45.23 | SSIM=0.9959 | size=998 B | ratio=0.3509 | reduction=64.91% | time=2.1936s
+QP=30 | PSNR=41.04 | SSIM=0.9870 | size=361 B | ratio=0.1269 | reduction=87.31% | time=1.5697s
+QP=36 | PSNR=38.48 | SSIM=0.9762 | size=170 B | ratio=0.0598 | reduction=94.02% | time=0.8376s
+QP=42 | PSNR=35.20 | SSIM=0.9537 | size=62 B | ratio=0.0218 | reduction=97.82% | time=4.5383s
+QP=48 | PSNR=34.36 | SSIM=0.9463 | size=42 B | ratio=0.0148 | reduction=98.52% | time=2.8140s
+QP= 6 | PSNR=53.92 | SSIM=0.9997 | size=11.60 KB | ratio=1.5871 | reduction=-58.71% | time=1.9924s
+QP=12 | PSNR=48.78 | SSIM=0.9992 | size=7.65 KB | ratio=1.0461 | reduction=-4.61% | time=3.7878s
+QP=18 | PSNR=43.51 | SSIM=0.9973 | size=4.42 KB | ratio=0.6053 | reduction=39.47% | time=3.2753s
+QP=24 | PSNR=38.86 | SSIM=0.9918 | size=2.31 KB | ratio=0.3164 | reduction=68.36% | time=0.9760s
+QP=30 | PSNR=34.84 | SSIM=0.9766 | size=1.13 KB | ratio=0.1546 | reduction=84.54% | time=1.8462s
+QP=36 | PSNR=31.33 | SSIM=0.9453 | size=486 B | ratio=0.0649 | reduction=93.51% | time=0.7745s
+QP=42 | PSNR=28.30 | SSIM=0.8948 | size=208 B | ratio=0.0278 | reduction=97.22% | time=1.2922s
+QP=48 | PSNR=25.52 | SSIM=0.7843 | size=80 B | ratio=0.0107 | reduction=98.93% | time=0.6553s
+QP= 6 | PSNR=79.01 | SSIM=1.0000 | size=454 B | ratio=0.5550 | reduction=44.50% | time=1.1801s
+QP=12 | PSNR=73.47 | SSIM=1.0000 | size=412 B | ratio=0.5037 | reduction=49.63% | time=0.7564s
+QP=18 | PSNR=67.35 | SSIM=1.0000 | size=340 B | ratio=0.4156 | reduction=58.44% | time=3.6502s
+QP=24 | PSNR=60.49 | SSIM=1.0000 | size=285 B | ratio=0.3484 | reduction=65.16% | time=3.7352s
+QP=30 | PSNR=52.63 | SSIM=0.9997 | size=248 B | ratio=0.3032 | reduction=69.68% | time=3.3382s
+QP=36 | PSNR=45.71 | SSIM=0.9987 | size=197 B | ratio=0.2408 | reduction=75.92% | time=2.0854s
+QP=42 | PSNR=39.04 | SSIM=0.9927 | size=76 B | ratio=0.0929 | reduction=90.71% | time=4.3987s
+QP=48 | PSNR=36.16 | SSIM=0.9818 | size=45 B | ratio=0.0550 | reduction=94.50% | time=3.6411s
+QP= 6 | PSNR=62.52 | SSIM=0.9999 | size=2.29 KB | ratio=1.3158 | reduction=-31.58% | time=2.7537s
+QP=12 | PSNR=56.22 | SSIM=0.9997 | size=1.55 KB | ratio=0.8912 | reduction=10.88% | time=0.4520s
+QP=18 | PSNR=50.78 | SSIM=0.9987 | size=996 B | ratio=0.5586 | reduction=44.14% | time=1.9946s
+QP=24 | PSNR=45.87 | SSIM=0.9955 | size=454 B | ratio=0.2546 | reduction=74.54% | time=1.2550s
+QP=30 | PSNR=42.06 | SSIM=0.9902 | size=246 B | ratio=0.1380 | reduction=86.20% | time=3.2327s
+QP=36 | PSNR=37.72 | SSIM=0.9805 | size=112 B | ratio=0.0628 | reduction=93.72% | time=1.3952s
+QP=42 | PSNR=34.77 | SSIM=0.9603 | size=56 B | ratio=0.0314 | reduction=96.86% | time=1.5322s
+QP=48 | PSNR=33.98 | SSIM=0.9540 | size=43 B | ratio=0.0241 | reduction=97.59% | time=1.3692s
+QP= 6 | PSNR=63.47 | SSIM=1.0000 | size=2.51 KB | ratio=1.2591 | reduction=-25.91% | time=2.4118s
+QP=12 | PSNR=58.73 | SSIM=0.9999 | size=1.97 KB | ratio=0.9873 | reduction=1.27% | time=1.5527s
+QP=18 | PSNR=53.06 | SSIM=0.9996 | size=1.43 KB | ratio=0.7194 | reduction=28.06% | time=3.6684s
+QP=24 | PSNR=46.19 | SSIM=0.9974 | size=922 B | ratio=0.4515 | reduction=54.85% | time=2.1136s
+QP=30 | PSNR=40.31 | SSIM=0.9911 | size=353 B | ratio=0.1729 | reduction=82.71% | time=2.0621s
+QP=36 | PSNR=36.56 | SSIM=0.9786 | size=113 B | ratio=0.0553 | reduction=94.47% | time=1.6274s
+QP=42 | PSNR=34.03 | SSIM=0.9558 | size=55 B | ratio=0.0269 | reduction=97.31% | time=1.5872s
+QP=48 | PSNR=33.08 | SSIM=0.9452 | size=48 B | ratio=0.0235 | reduction=97.65% | time=2.4333s
+QP= 6 | PSNR=63.87 | SSIM=1.0000 | size=3.76 KB | ratio=2.4177 | reduction=-141.77% | time=0.6949s
+QP=12 | PSNR=57.81 | SSIM=1.0000 | size=3.12 KB | ratio=2.0094 | reduction=-100.94% | time=2.8941s
+QP=18 | PSNR=52.64 | SSIM=0.9999 | size=2.56 KB | ratio=1.6470 | reduction=-64.70% | time=3.0791s
+QP=24 | PSNR=47.03 | SSIM=0.9994 | size=2.10 KB | ratio=1.3505 | reduction=-35.05% | time=2.9055s
+QP=30 | PSNR=40.26 | SSIM=0.9974 | size=1.65 KB | ratio=1.0641 | reduction=-6.41% | time=5.1842s
+QP=36 | PSNR=32.57 | SSIM=0.9790 | size=1.04 KB | ratio=0.6683 | reduction=33.17% | time=1.6750s
+QP=42 | PSNR=27.35 | SSIM=0.9209 | size=285 B | ratio=0.1790 | reduction=82.10% | time=2.2075s
+QP=48 | PSNR=25.01 | SSIM=0.7764 | size=88 B | ratio=0.0553 | reduction=94.47% | time=1.1233s
+QP= 6 | PSNR=55.91 | SSIM=0.9998 | size=22.77 KB | ratio=0.9812 | reduction=1.88% | time=6.2498s
+QP=12 | PSNR=50.93 | SSIM=0.9992 | size=13.38 KB | ratio=0.5764 | reduction=42.36% | time=8.2058s
+QP=18 | PSNR=46.05 | SSIM=0.9973 | size=7.39 KB | ratio=0.3184 | reduction=68.16% | time=10.4239s
+QP=24 | PSNR=41.96 | SSIM=0.9924 | size=3.76 KB | ratio=0.1619 | reduction=83.81% | time=3.2444s
+QP=30 | PSNR=38.02 | SSIM=0.9793 | size=1.71 KB | ratio=0.0738 | reduction=92.62% | time=6.0411s
+QP=36 | PSNR=34.88 | SSIM=0.9552 | size=720 B | ratio=0.0303 | reduction=96.97% | time=6.6361s
+QP=42 | PSNR=31.70 | SSIM=0.9071 | size=234 B | ratio=0.0098 | reduction=99.02% | time=9.3547s
+QP=48 | PSNR=29.71 | SSIM=0.8599 | size=77 B | ratio=0.0032 | reduction=99.68% | time=7.6280s
+QP= 6 | PSNR=67.70 | SSIM=1.0000 | size=2.18 KB | ratio=1.3268 | reduction=-32.68% | time=1.2163s
+QP=12 | PSNR=63.95 | SSIM=1.0000 | size=1.75 KB | ratio=1.0658 | reduction=-6.58% | time=3.6517s
+QP=18 | PSNR=59.20 | SSIM=0.9999 | size=1.42 KB | ratio=0.8624 | reduction=13.76% | time=2.2175s
+QP=24 | PSNR=54.01 | SSIM=0.9998 | size=1.19 KB | ratio=0.7236 | reduction=27.64% | time=4.7612s
+QP=30 | PSNR=46.13 | SSIM=0.9986 | size=939 B | ratio=0.5569 | reduction=44.31% | time=1.9916s
+QP=36 | PSNR=37.79 | SSIM=0.9859 | size=424 B | ratio=0.2515 | reduction=74.85% | time=3.5494s
+QP=42 | PSNR=34.03 | SSIM=0.9614 | size=83 B | ratio=0.0492 | reduction=95.08% | time=4.5931s
+QP=48 | PSNR=32.45 | SSIM=0.9519 | size=51 B | ratio=0.0302 | reduction=96.98% | time=4.7297s
+QP= 6 | PSNR=57.29 | SSIM=0.9998 | size=17.01 KB | ratio=1.6563 | reduction=-65.63% | time=2.0980s
+QP=12 | PSNR=51.51 | SSIM=0.9994 | size=12.00 KB | ratio=1.1688 | reduction=-16.88% | time=9.8787s
+QP=18 | PSNR=45.64 | SSIM=0.9977 | size=7.49 KB | ratio=0.7299 | reduction=27.01% | time=6.2009s
+QP=24 | PSNR=40.65 | SSIM=0.9922 | size=3.65 KB | ratio=0.3551 | reduction=64.49% | time=9.7229s
+QP=30 | PSNR=36.44 | SSIM=0.9778 | size=1.54 KB | ratio=0.1503 | reduction=84.97% | time=6.9136s
+QP=36 | PSNR=33.04 | SSIM=0.9459 | size=581 B | ratio=0.0553 | reduction=94.47% | time=6.6492s
+QP=42 | PSNR=30.32 | SSIM=0.8955 | size=188 B | ratio=0.0179 | reduction=98.21% | time=2.3028s
+QP=48 | PSNR=28.40 | SSIM=0.8423 | size=73 B | ratio=0.0069 | reduction=99.31% | time=1.5036s
+QP= 6 | PSNR=54.31 | SSIM=0.9996 | size=18.95 KB | ratio=0.9157 | reduction=8.43% | time=10.3972s
+QP=12 | PSNR=49.99 | SSIM=0.9990 | size=11.21 KB | ratio=0.5415 | reduction=45.85% | time=8.6303s
+QP=18 | PSNR=45.50 | SSIM=0.9973 | size=6.35 KB | ratio=0.3070 | reduction=69.30% | time=2.6310s
+QP=24 | PSNR=41.57 | SSIM=0.9926 | size=3.33 KB | ratio=0.1611 | reduction=83.89% | time=2.5463s
+QP=30 | PSNR=37.66 | SSIM=0.9798 | size=1.54 KB | ratio=0.0744 | reduction=92.56% | time=3.3679s
+QP=36 | PSNR=34.25 | SSIM=0.9513 | size=639 B | ratio=0.0302 | reduction=96.98% | time=1.1177s
+QP=42 | PSNR=31.27 | SSIM=0.8938 | size=226 B | ratio=0.0107 | reduction=98.93% | time=1.3392s
+QP=48 | PSNR=28.97 | SSIM=0.8254 | size=80 B | ratio=0.0038 | reduction=99.62% | time=5.2406s
+QP= 6 | PSNR=54.94 | SSIM=0.9998 | size=18.54 KB | ratio=1.2283 | reduction=-22.83% | time=4.1169s
+QP=12 | PSNR=49.99 | SSIM=0.9993 | size=11.57 KB | ratio=0.7667 | reduction=23.33% | time=8.8094s
+QP=18 | PSNR=45.17 | SSIM=0.9977 | size=6.76 KB | ratio=0.4480 | reduction=55.20% | time=6.1864s
+QP=24 | PSNR=40.75 | SSIM=0.9929 | size=3.70 KB | ratio=0.2449 | reduction=75.51% | time=6.7310s
+QP=30 | PSNR=36.64 | SSIM=0.9807 | size=1.78 KB | ratio=0.1178 | reduction=88.22% | time=3.3126s
+QP=36 | PSNR=33.03 | SSIM=0.9519 | size=771 B | ratio=0.0499 | reduction=95.01% | time=3.1116s
+QP=42 | PSNR=29.83 | SSIM=0.8988 | size=273 B | ratio=0.0177 | reduction=98.23% | time=3.8399s
+QP=48 | PSNR=27.67 | SSIM=0.8247 | size=109 B | ratio=0.0071 | reduction=99.29% | time=3.1911s
+QP= 6 | PSNR=62.75 | SSIM=1.0000 | size=2.51 KB | ratio=1.1521 | reduction=-15.21% | time=1.4777s
+QP=12 | PSNR=57.87 | SSIM=0.9999 | size=1.82 KB | ratio=0.8353 | reduction=16.47% | time=3.8250s
+QP=18 | PSNR=52.00 | SSIM=0.9995 | size=1.29 KB | ratio=0.5928 | reduction=40.72% | time=5.1870s
+QP=24 | PSNR=46.44 | SSIM=0.9976 | size=786 B | ratio=0.3517 | reduction=64.83% | time=1.0760s
+QP=30 | PSNR=41.37 | SSIM=0.9919 | size=392 B | ratio=0.1754 | reduction=82.46% | time=3.8366s
+QP=36 | PSNR=37.49 | SSIM=0.9781 | size=160 B | ratio=0.0716 | reduction=92.84% | time=1.7589s
+QP=42 | PSNR=35.16 | SSIM=0.9582 | size=85 B | ratio=0.0380 | reduction=96.20% | time=2.3738s
+QP=48 | PSNR=33.99 | SSIM=0.9531 | size=58 B | ratio=0.0260 | reduction=97.40% | time=1.4798s
+QP= 6 | PSNR=54.44 | SSIM=0.9998 | size=28.05 KB | ratio=1.7136 | reduction=-71.36% | time=13.0595s
+QP=12 | PSNR=48.98 | SSIM=0.9993 | size=19.16 KB | ratio=1.1705 | reduction=-17.05% | time=10.2347s
+QP=18 | PSNR=43.55 | SSIM=0.9974 | size=10.95 KB | ratio=0.6693 | reduction=33.07% | time=5.8048s
+QP=24 | PSNR=39.18 | SSIM=0.9920 | size=5.64 KB | ratio=0.3447 | reduction=65.53% | time=5.7252s
+QP=30 | PSNR=35.18 | SSIM=0.9778 | size=2.83 KB | ratio=0.1732 | reduction=82.68% | time=2.6684s
+QP=36 | PSNR=31.54 | SSIM=0.9442 | size=1.25 KB | ratio=0.0764 | reduction=92.36% | time=4.3188s
+QP=42 | PSNR=28.33 | SSIM=0.8789 | size=500 B | ratio=0.0298 | reduction=97.02% | time=3.2793s
+QP=48 | PSNR=25.62 | SSIM=0.7777 | size=164 B | ratio=0.0098 | reduction=99.02% | time=3.2813s
+QP= 6 | PSNR=65.47 | SSIM=1.0000 | size=6.13 KB | ratio=1.7079 | reduction=-70.79% | time=4.8682s
+QP=12 | PSNR=59.49 | SSIM=0.9999 | size=4.91 KB | ratio=1.3697 | reduction=-36.97% | time=7.3376s
+QP=18 | PSNR=53.58 | SSIM=0.9997 | size=4.06 KB | ratio=1.1307 | reduction=-13.07% | time=5.8826s
+QP=24 | PSNR=47.43 | SSIM=0.9987 | size=2.82 KB | ratio=0.7863 | reduction=21.37% | time=3.9802s
+QP=30 | PSNR=40.67 | SSIM=0.9934 | size=1.52 KB | ratio=0.4247 | reduction=57.53% | time=3.8318s
+QP=36 | PSNR=36.26 | SSIM=0.9756 | size=352 B | ratio=0.0958 | reduction=90.42% | time=5.9915s
+QP=42 | PSNR=34.11 | SSIM=0.9565 | size=104 B | ratio=0.0283 | reduction=97.17% | time=5.5196s
+QP=48 | PSNR=33.30 | SSIM=0.9440 | size=64 B | ratio=0.0174 | reduction=98.26% | time=4.3172s
+QP= 6 | PSNR=55.89 | SSIM=0.9997 | size=28.10 KB | ratio=1.0175 | reduction=-1.75% | time=11.1044s
+QP=12 | PSNR=50.72 | SSIM=0.9991 | size=16.86 KB | ratio=0.6105 | reduction=38.95% | time=14.6177s
+QP=18 | PSNR=45.80 | SSIM=0.9969 | size=9.25 KB | ratio=0.3349 | reduction=66.51% | time=7.0912s
+QP=24 | PSNR=41.56 | SSIM=0.9907 | size=4.52 KB | ratio=0.1637 | reduction=83.63% | time=10.0496s
+QP=30 | PSNR=37.81 | SSIM=0.9756 | size=1.91 KB | ratio=0.0691 | reduction=93.09% | time=6.7889s
+QP=36 | PSNR=34.82 | SSIM=0.9496 | size=770 B | ratio=0.0272 | reduction=97.28% | time=5.5506s
+QP=42 | PSNR=32.27 | SSIM=0.9128 | size=233 B | ratio=0.0082 | reduction=99.18% | time=7.8270s
+QP=48 | PSNR=30.75 | SSIM=0.8831 | size=83 B | ratio=0.0029 | reduction=99.71% | time=1.6521s
+QP= 6 | PSNR=60.72 | SSIM=0.9999 | size=7.05 KB | ratio=0.6426 | reduction=35.74% | time=11.4669s
+QP=12 | PSNR=56.24 | SSIM=0.9996 | size=3.85 KB | ratio=0.3506 | reduction=64.94% | time=2.6233s
+QP=18 | PSNR=51.67 | SSIM=0.9988 | size=1.89 KB | ratio=0.1720 | reduction=82.80% | time=6.8572s
+QP=24 | PSNR=47.87 | SSIM=0.9968 | size=893 B | ratio=0.0795 | reduction=92.05% | time=3.3764s
+QP=30 | PSNR=44.73 | SSIM=0.9933 | size=408 B | ratio=0.0363 | reduction=96.37% | time=6.0051s
+QP=36 | PSNR=41.56 | SSIM=0.9864 | size=152 B | ratio=0.0135 | reduction=98.65% | time=7.0139s
+QP=42 | PSNR=39.70 | SSIM=0.9808 | size=79 B | ratio=0.0070 | reduction=99.30% | time=6.7244s
+QP=48 | PSNR=37.37 | SSIM=0.9765 | size=48 B | ratio=0.0043 | reduction=99.57% | time=6.3344s
+QP= 6 | PSNR=57.03 | SSIM=0.9998 | size=7.53 KB | ratio=1.5344 | reduction=-53.44% | time=1.4978s
+QP=12 | PSNR=51.67 | SSIM=0.9995 | size=5.30 KB | ratio=1.0808 | reduction=-8.08% | time=4.9135s
+QP=18 | PSNR=45.68 | SSIM=0.9978 | size=3.36 KB | ratio=0.6843 | reduction=31.57% | time=4.2420s
+QP=24 | PSNR=40.91 | SSIM=0.9930 | size=1.78 KB | ratio=0.3633 | reduction=63.67% | time=1.2535s
+QP=30 | PSNR=36.56 | SSIM=0.9794 | size=869 B | ratio=0.1730 | reduction=82.70% | time=2.6678s
+QP=36 | PSNR=33.06 | SSIM=0.9490 | size=350 B | ratio=0.0697 | reduction=93.03% | time=0.6843s
+QP=42 | PSNR=30.32 | SSIM=0.8942 | size=130 B | ratio=0.0259 | reduction=97.41% | time=1.4379s
+QP=48 | PSNR=28.39 | SSIM=0.8351 | size=60 B | ratio=0.0119 | reduction=98.81% | time=1.5549s
+QP= 6 | PSNR=58.37 | SSIM=0.9998 | size=7.78 KB | ratio=1.0483 | reduction=-4.83% | time=4.7089s
+QP=12 | PSNR=53.67 | SSIM=0.9995 | size=4.95 KB | ratio=0.6674 | reduction=33.26% | time=3.5403s
+QP=18 | PSNR=48.54 | SSIM=0.9983 | size=2.97 KB | ratio=0.4003 | reduction=59.97% | time=2.9224s
+QP=24 | PSNR=44.33 | SSIM=0.9952 | size=1.65 KB | ratio=0.2220 | reduction=77.80% | time=3.2681s
+QP=30 | PSNR=40.23 | SSIM=0.9873 | size=852 B | ratio=0.1121 | reduction=88.79% | time=5.3603s
+QP=36 | PSNR=36.81 | SSIM=0.9711 | size=392 B | ratio=0.0516 | reduction=94.84% | time=2.2604s
+QP=42 | PSNR=33.30 | SSIM=0.9343 | size=155 B | ratio=0.0204 | reduction=97.96% | time=1.7012s
+QP=48 | PSNR=31.04 | SSIM=0.8958 | size=60 B | ratio=0.0079 | reduction=99.21% | time=5.6113s
+QP= 6 | PSNR=56.14 | SSIM=0.9997 | size=16.66 KB | ratio=0.8077 | reduction=19.23% | time=12.1691s
+QP=12 | PSNR=51.70 | SSIM=0.9992 | size=9.81 KB | ratio=0.4759 | reduction=52.41% | time=5.2248s
+QP=18 | PSNR=46.84 | SSIM=0.9975 | size=5.44 KB | ratio=0.2639 | reduction=73.61% | time=7.1971s
+QP=24 | PSNR=42.78 | SSIM=0.9936 | size=2.78 KB | ratio=0.1348 | reduction=86.52% | time=13.1189s
+QP=30 | PSNR=38.81 | SSIM=0.9831 | size=1.33 KB | ratio=0.0646 | reduction=93.54% | time=9.7589s
+QP=36 | PSNR=35.40 | SSIM=0.9628 | size=542 B | ratio=0.0257 | reduction=97.43% | time=6.0530s
+QP=42 | PSNR=32.28 | SSIM=0.9266 | size=216 B | ratio=0.0102 | reduction=98.98% | time=3.9535s
+QP=48 | PSNR=29.37 | SSIM=0.8737 | size=72 B | ratio=0.0034 | reduction=99.66% | time=1.8720s
+saved csv: /home/zhaoy/TaCo-Bench/lossy/image/statistics/bpg_ObjTac.csv
